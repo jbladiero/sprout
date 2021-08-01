@@ -1,0 +1,135 @@
+main{
+  max-width: 1000px;
+  margin: auto;
+  padding: 10px;
+}
+
+
+
+
+
+
+main section{
+
+  display: none;
+  grid-template-columns: 300px 500px;
+  grid-template-areas: "aside article";
+  grid-gap: 10px;
+  grid-area: section;
+  margin: 10px auto;
+
+}
+
+
+main section aside{
+  grid-area: aside;
+  padding: 11px;
+  border-radius: 11px;
+  background: white;
+}
+
+main section article{
+  grid-area: article;
+  padding: 11px;
+  border-radius: 11px;
+  background: white;
+}
+
+
+/*STRUCT*/
+section#struct article{
+  display: flex;
+}
+section#struct div{
+  width: 100%;
+  padding: 3px;
+}
+
+section#struct ul{
+  list-style-type: none;
+}
+
+section#struct li{
+  padding: 4px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 4px;
+}
+
+section#struct li:hover{
+  background: rgba(0,0,0,0.3);
+}
+
+ul{
+  max-height: 500px;
+  overflow-y: scroll;
+}
+
+
+li[selected="true"]{
+  background: rgba(0,0,0,0.5);
+  color: white;
+}
+
+li[disabled="true"]{
+  pointer-events: none;
+  font-style: italic;
+  text-align: center;
+}
+
+
+/*EDITOR*/
+
+[answer='A'] #A{
+  background-color: rgba(4,143,17, 0.69);
+}
+[answer='B'] #B{
+  background-color: rgba(4,143,17, 0.69);
+}
+[answer='C'] #C{
+  background-color: rgba(4,143,17, 0.69);
+}
+[answer='D'] #D{
+  background-color: rgba(4,143,17, 0.69);
+}
+[answer='E'] #E{
+  background-color: rgba(4,143,17, 0.69);
+}
+
+[answer='B'] #A{
+  background-color: rgba(100,4,17, 0.3)
+}
+[answer='C'] #A{
+  background-color: rgba(100,4,17, 0.3)
+}
+[answer='D'] #A{
+  background-color: rgba(100,4,17, 0.3)
+}
+[answer='E'] #A{
+  background-color: rgba(100,4,17, 0.3)
+}
+
+
+
+.choice{
+  display: flex;
+}
+
+
+
+.choice button{
+  width: 90px;
+  margin-left: 3px;
+}
+
+.options{
+  display: flex;
+}
+
+.options button{
+  margin-right: 3px;
+}
+
+.options #submit{
+  margin-right: 50px;
+}

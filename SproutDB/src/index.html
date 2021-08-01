@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style/grid.css">
+    <link rel="stylesheet" href="style/main.css">
+
+    <script type="text/javascript" src="script/common.js"></script>
+    <script type="text/javascript" src="script/struct.js"></script>
+    <script type="text/javascript" src="script/editor.js"></script>
+    <script type="text/javascript" src="script/parser.js"></script>
+    <script type="text/javascript" src="script/browse.js"></script>
+
+
+    <title>Sprout DB</title>
+  </head>
+  <body active="struct" id="anchor">
+    <header>
+      <div>
+        <img src="assets/icon.png" alt="">
+        <p>
+          <b>Sprout</b>
+          <span>Database</span>
+        </p>
+      </div>
+
+      <nav>
+        <a id="struct" href="#" onclick="tab('struct')">Files</a>
+        <a id="edit" href="#" onclick="tab('edit')">Editor</a>
+        <a id="parse" href="#" onclick="tab('parse')">Parser</a>
+        <a id="browse" href="#" onclick="tab('browse')">Browser</a>
+      </nav>
+    </header>
+
+
+
+    <main>
+      <section id="struct">
+        <aside class="">
+          <h3>Preview</h3>
+          Type:
+          <b id="struct-type"></b><br>
+          Code:
+          <b id="struct-code"></b><br><br>
+          Name:
+          <input id="struct-name" type="text" placeholder="Name">
+          Description:
+          <input id="struct-description" type="text" placeholder="Description">
+
+          <button onclick="Struct.update()">Update</button>
+          <br><br>
+          <button type="button" name="button">Delete</button>
+
+        </aside>
+
+        <article>
+          <div>
+            <button type="button" onclick="Struct.createCourse()">Create Course</button>
+
+            <ul id="courses-struct">
+              <li>
+                <b>Name</b>
+                <p>description</p>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <button type="button" onclick="Struct.createCategory()">Create Category</button>
+
+            <ul id="categories-struct">
+
+            </ul>
+          </div>
+          <div>
+            <button type="button" onclick="Struct.createSubject()">Create Subject</button>
+
+            <ul id="subjects-struct">
+
+            </ul>
+          </div>
+        </article>
+
+      </section>
+
+
+
+
+
+
+
+
+
+      <!-- Editor -->
+
+
+      <section id="edit">
+        <aside class="shadow">
+          <h3>Edit</h3>
+          Course:
+          <select id="editor-course" onchange="Editor.course=this.value"></select>
+          Category:
+          <select id="editor-category" onchange="Editor.category=this.value"></select>
+          Subject:
+          <select id="editor-subject" onchange="Editor.subject=this.value"></select>
+          <br><br>
+          <h4>Queue:</h4><h1 class="count">0</h1>
+          <br><br>
+          <h4>Cue</h4>
+          <input type="number" id="cue" value="0">
+          <br><br>
+          <h4>Uploaded:</h4>
+          <h1 id="uploaded">0</h1>
+
+          <br>
+          <button type="button" name="button">Upload</button>
+        </aside>
+
+        <article class="shadow" id="form" answer="">
+
+
+          Question:
+          <textarea id="question" rows="2" placeholder="Question"></textarea>
+          Answer:
+            <input id="A" class="cin" placeholder="Answer">
+            <em id="suggested"></em><br>
+          Choices:
+          <div class="choice">
+            <input id="B" class="cin" placeholder="Choice">
+            <button type="button" onclick="Editor.swap('B')">Switch</button>
+          </div>
+          <div class="choice">
+            <input id="C" class="cin" placeholder="Choice">
+            <button type="button" onclick="Editor.swap('C')">Switch</button>
+          </div>
+          <div class="choice">
+            <input id="D" class="cin" placeholder="Choice">
+            <button type="button" onclick="Editor.swap('D')">Switch</button>
+          </div>
+          <div class="choice">
+            <input id="E" class="choice-input" placeholder="Choice">
+            <button type="button" onclick="Editor.swap('E')">Switch</button>
+          </div>
+          Image:<br>
+          <input type="file" id="image" onchange="Image.handle(this)"><br>
+          Explanation:
+          <textarea rows="4" id="explanation"></textarea>
+          <div class="options">
+            <button type="button" id="submit" onclick="Editor.submit()">Submit</button>
+
+
+            <button type="button" name="button">Reload Last</button>
+            <button type="button" onclick="Editor.fromQueue()">Load from Queue</button>
+          </div>
+        </article>
+
+
+      </section>
+      <!-- Editor -->
+
+
+
+
+
+
+
+
+
+      <!-- Parser -->
+
+      <section id="parse">
+        <aside class="shadow">
+          <h3>Parse</h3>
+          Mode:
+          <select id="parse-mode">
+            <option value="Single">Question Only</option>
+            <option value="All">Question and Answer</option>
+          </select>
+          <br>
+          <br>
+          Questions Numbering:
+          <select id="parse-numbering">
+            <option value="none">None</option>
+            <option value="dot" selected>1. 2. 3.</option>
+            <option value="par">1) 2) 3)</option>
+            <option value="mixed">1.) 2.) 3.)</option>
+          </select>
+          Choices Format:
+          <select id="parse-choices">
+            <option value="none">None</option>
+            <option value="dot" selected>a. b. c.</option>
+            <option value="par">a) b) c)</option>
+            <option value="mixed">a.) b.) c.)</option>
+
+          </select>
+          <br>
+          <br>
+          Answer Sheet Numbering:
+          <select id="parse-ans-num">
+            <option value="none">None</option>
+            <option value="dot" selected>1. 2. 3.</option>
+            <option value="par">1) 2) 3)</option>
+            <option value="mixed">1.) 2.) 3.)</option>
+          </select>
+          Answer Matching:
+          <select id="parse-ans-mode">
+            <option value="letter" selected>Letter</option>
+            <option value="exact" >Exact Answer (Case Sensitive)</option>
+          </select>
+          <br><br>
+          <button type="button" name="button" onclick="parser.do()">Parse</button>
+        </aside>
+
+        <article class="shadow">
+          <h4>Questions</h4>
+          <textarea name="name" rows="8" id="parse-questions">
+          </textarea>
+          <h4>Answers</h4>
+          <textarea name="name" rows="8" id="parse-answers">
+          </textarea>
+          <h3>Queue: <span class="count">0</span></h3>
+        </article>
+
+
+
+      </section>
+      <!-- Parser -->
+
+
+
+
+
+
+
+
+
+
+
+      <!-- Browser -->
+
+      <section id="browse">
+        <h3>Browse</h3>
+        <!-- Browser -->
+
+
+      </section>
+
+
+
+    </main>
+
+
+
+
+          <div style="background:white; padding:11px;">
+            <h3>Debug</h3>
+            <p id="debug"></p>
+          </div>
+
+    <div id="modal" status="NONE">
+      <div backdrop onclick="modal.backdrop()"></div>
+      <div class="window shadow">
+        <h3 id="header">Modal</h3>
+          <p id="message"></p>
+        <div id="html">
+
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+  </body>
+</html>

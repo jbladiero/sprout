@@ -1,0 +1,254 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  background: #EEF2F7;
+  font-family: helvetica;
+  color: #333;
+}
+
+header{
+  -webkit-app-region: drag;
+  width: 100%;
+  height: 85px;
+  background: white;
+  box-shadow:
+0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+0 12.5px 10px rgba(0, 0, 0, 0.06);
+position: sticky;
+top: 0;
+padding: 5px;
+padding-top: 25px;
+font-size: 20px;
+display: flex;
+}
+
+header div{
+  font-size: 17px;
+  font-style: oblique;
+}
+
+header div img{
+  margin-left: 4px;
+  height: 53px;
+  display: inline-block;
+  vertical-align: bottom;
+
+}
+
+header div p{
+  padding: 4px;
+  height: 53px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+header div b{
+  display: block;
+  vertical-align: bottom;
+  font-size: 23px;
+}
+header div span{
+  display: block;
+  vertical-align: bottom;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+
+header nav{
+  vertical-align: bottom;
+  font-size: 16px;
+  padding: 11px;
+  font-weight: lighter;
+  align-self: flex-end;
+}
+
+header nav a {
+  padding: 4px 11px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: inherit;
+
+}
+
+[active=struct] a#struct{
+  color:white;
+  background-color: rgba(0, 0, 0, 0.69);
+}
+[active=edit] a#edit{
+  color:white;
+  background-color: rgba(0, 0, 0, 0.69);
+}
+[active=parse] a#parse{
+  color:white;
+  background-color: rgba(0, 0, 0, 0.69);
+}
+[active=browse] a#browse{
+  color:white;
+  background-color: rgba(0, 0, 0, 0.69);
+}
+
+
+
+[active=struct] section#struct{
+  display: grid;
+}
+[active=edit] section#edit{
+  display: grid;
+}
+[active=parse] section#parse{
+  display: grid;
+}
+[active=browse] section#browse{
+  display: grid;
+}
+
+
+
+header nav a:hover{
+  background-color: rgba(0,0,0,0.3);
+}
+
+.shadow{
+  box-shadow:
+0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+0 12.5px 10px rgba(0, 0, 0, 0.06),
+0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+0 100px 80px rgba(0, 0, 0, 0.12);
+border-radius: 5px;
+
+}
+
+
+
+input{
+  font-size: inherit;
+  padding: 7px;
+  width: 100%;
+  margin-bottom: 3px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: none;
+  background: #ddd;
+  outline: none;
+}
+
+input[type="file"]{
+  font-size: inherit;
+  padding: 7px;
+  width: 100%;
+  margin-bottom: 3px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: none;
+  background: #ddd;
+  outline: none;
+}
+
+button{
+  margin-bottom: 3px;
+  font-size: inherit;
+  padding: 7px;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: none;
+  background: rgba(0,0,0,0.3);
+  outline: none;
+}
+
+button:hover{
+  background: rgba(0,0,0,0.69);
+  color:white;
+  cursor: pointer;
+}
+
+
+select{
+   -webkit-appearance: none;
+   text-align: center;
+  margin-top: 3px;
+  font-size: inherit;
+  padding: 7px;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: none;
+  background: rgba(0,0,0,0.1);
+  outline: none;
+}
+
+textarea{
+  font-family: inherit;
+  font-size: inherit;
+  padding: 7px;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: none;
+  background: rgba(0,0,0,0.1);
+  outline: none;
+}
+
+
+
+#modal {
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  height: 100vh;
+  width: 100vw;
+  z-index: 3;
+  transition: 0.3s;
+}
+
+#modal[status='NONE']{
+  opacity: 0;
+  pointer-events: none;
+}
+
+#modal[status=NONE] .window{
+  margin: 15vh auto;
+}
+
+
+[backdrop]{
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  height: 100vh;
+  width: 100vw;
+  background: rgba(0,0,0,0.69);
+}
+
+.window {
+  position: relative;
+  margin: 10vh auto;
+  padding: 17px;
+  background: #f0f0f0;
+  border-radius: 11px;
+  max-width: 700px;
+  transition: 0.4s;
+}
+
+
+
+[status=OK] h3{
+  color: inherit;
+}
+
+[status=ERR] h3{
+  color: #dd4444;
+
+}

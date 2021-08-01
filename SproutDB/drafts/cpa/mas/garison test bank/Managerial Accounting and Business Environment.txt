@@ -1,0 +1,213 @@
+Management accounting focuses primarily on providing data for:
+A) internal uses by managers.
+B) externalusesbystockholdersandcreditors.
+C) externalusesbytheInternalRevenueService.
+D) externalusesbytheSecuritiesandExchangeCommission.
+
+
+Managerial accounting:
+A) ismorefutureorientedthanfinancialaccounting.
+B) tendstosummarizeinformationmorethanfinancialaccounting
+C) isprimarilyconcernedwithprovidinginformationtoexternalusers. D) ismoreconcernedwithprecisionthantimeliness.
+
+
+Compared to financial accounting, managerial accounting places more emphasis on:
+A) the flexibility of information.
+B) the precision of information.
+C) thetimelinessofinformation.
+D) bothAandCabove. 
+
+
+The function of management that compares planned results to actual results is known as:
+A) planning.
+B) directingandmotivating.
+C) controlling.
+D) decisionmaking.
+
+
+
+Which of the functions of management involves overseeing day-to-day activities? A) Planning
+B) Directingandmotivating C) Controlling
+D) Decisionmaking
+
+
+Which of the following is not one of the three basic activities of a manager? A) Planning
+B) Controlling
+C) Directingandmotivating
+D) Compilingmanagementaccountingreports
+
+
+The delegation of decision making to lower levels in an organization is known as: A) theplanningandcontrolcycle.
+B) controlling.
+C) decentralization.
+D) noneofthese.
+
+
+Which of the following statements are false concerning line and staff functions?
+I. Persons occupying staff functions have authority over persons occupying line functions.
+II. Bothlineandstafffunctionsaredepictedontheorganizationchart.
+III. Line functions are directly related to the basic objectives of an organization.
+A) OnlyI
+B) OnlyII
+C) OnlyIandII D) I,II,andIII
+
+
+
+Which of following would normally be found on a manufacturing company's organization chart?
+A) thelayoutofthefactoryassemblylines
+B) alistofthematerialsneededtoproduceeachofthecompany'sproducts C) theinformallinesofreportingandcommunication
+D) noneoftheabove
+
+
+For a hospital, what type of position (line or staff) is each of the following?
+Emergency Room Manager
+Human Resources (Personnel) Manager
+Staff Line Staff Line
+A) B) C) D)
+
+
+A detailed financial plan for the future is known as a: A) budget.
+B) performancereport. C) organizationchart. D) segment.
+
+
+A performance report is:
+A) adetailedreportcomparingbudgeteddatatoactualdataforaspecifictimeperiod. B) aformalstatementofplansfortheupcomingperiod.
+C) requiredtobefiledmonthlybytheSecuritiesandExchangeCommission.
+D) notusedindecentralizedorganizations.
+
+
+
+A clustering of two or more machines at a single workstation is referred to as: A) amanufacturingcell.
+B) anactivitycenter.
+C) afunctionallayout.
+D) asetup.
+
+
+A focused factory is:
+A) afactorythatmakesonlyasingleproduct.
+B) afactorythatperformsasinglestepintheproductionprocessandsubcontractsthe
+other steps.
+C) aplantlayoutinwhichallmachinesneededtomakeaparticularproductare
+brought together in one location.
+D) requiredtobidfordefensecontracts.
+
+
+Large work in process inventories:
+A) areessentialforefficientoperations. B) reducedefectrates.
+C) increasethroughputtime.
+D) areakeypartofJust-In-Timesystems.
+
+
+Ideally, how many units should be produced in a just-in-time manufacturing system?
+A) budgeted customer demand for the current week.
+B) budgetedcustomerdemandforthefollowingweek.
+C) actualcustomerdemandforthecurrentweek.
+D) maximumproductioncapacityforthecurrentweek.
+
+
+
+After careful planning, Jammu Manufacturing Corporation has decided to switch to a just-in-time inventory system. At the beginning of this switch, Jammu has 30 units of product in inventory. Jammu has 2,000 labor hours available in the first month of this switch. These hours could produce 500 units of product. Customer demand for this first month is 400 units. If just-in-time principles are correctly followed, how many units should Jammu plan to produce in the first month of the switch?
+A) 370 B) 400 C) 430 D) 470
+
+
+
+Process Reengineering includes all of the following steps except:
+A) constructing a diagram flowcharting the current process.
+B) redesigningtheprocess.
+C) eliminationofnon-value-addedactivities.
+D) eliminationofallconstraints.
+
+
+According to the Theory of Constraints, improvement efforts should usually be focused on:
+A) workcentersthatarenotconstraints.
+B) theworkcenterthatistheconstraint.
+C) theworkcenterwiththehighesttotalcost.
+D) theworkcenterwiththemostobsoleteequipment.
+
+
+Which of the following is true regarding the theory of constraints?
+A) Thetheoryofconstraintsdoesnotapplytocompanieswithmultipleproducts
+because of capacity measurement difficulties.
+B) Inanyprofit-seekingcompany,theremustbeatleastoneconstraint.
+C) Constraints or bottlenecks stop organizations from selling an infinite number of
+units or services.
+D) bothBandCabove.
+
+
+
+Pizza World makes forty-three kinds of pizza for takeout and delivery. Which of the following could be the constraint at Pizza World?
+A) thepersonwhomakesthepizzacrust.
+B) thepersonwhoputstoppingsonthepizzas.
+C) thepizzaoven.
+D) anyoftheabovecouldbetheconstraint.
+
+
+The Standards of Ethical Conduct for Management Accountants developed by the Institute of Management Accountants contain a policy regarding confidentiality that requires management accountants to refrain from disclosing confidential information acquired in the course of their work:
+A) exceptwhenauthorizedbymanagement.
+B) inallsituations.
+C) exceptwhenauthorizedbymanagement,unlesslegallyobligatedtodoso. D) inallcasesnotprohibitedbylaw.
+
+
+
+Wide-spread adherence to ethical standards in an advanced market economy tends to result in all of the following except:
+A) higherprices.
+B) higherqualitygoodsandservices.
+C) greatervarietyofgoodsandservicesavailableforsale. D) saferproducts.
+
+
+
+The Institute of Management Accountants (IMA) has developed ethical standards for management accountants. What four categories has the IMA classified these standards into?
+A) Reliability,Objectivity,Commitment,andCompetence
+B) Objectivity,Integrity,Commitment,andConfidentiality
+C) Observation,Integrity,Closure,andCompetence
+D) Competence,Objectivity,Integrity,andConfidentiality
+E) Reliability, Understandability, Flexibility, and Integrity
+
+
+
+Samantha Galloway is a managerial accountant in the accounting department of Mustang Industries, Inc. Samantha has just discovered evidence that some of the corporation's marketing managers have been wrongfully inflating their expense reports in order to obtain higher reimbursements from the firm. According to the Institute of Management Accountants' Standards of Ethical Conduct, what should Samantha do upon discovering this evidence?
+A) notifythecontroller.
+B) notifythemarketingmanagersinvolved.
+C) notifythepresidentofthecorporation.
+D) ignoretheevidencebecausesheisnotpartoftheMarketingDepartment.
+
+
+
+A
+A
+D
+c
+B
+d
+C
+A
+C
+A
+A
+A
+C
+C
+C
+A
+D
+B
+D
+D
+C
+A
+D
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+

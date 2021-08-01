@@ -1,0 +1,1765 @@
+Which of the following journal entries would be used to record direct labor costs in a company having two processing departments (Department A and Department B)?
+A) Work in Process
+Salaries and Wages Payable
+B) Salaries and Wages Expense Salaries and Wages Payable
+C) Work in Process-Department A
+Work in Process-Department B Salaries and Wages Payable
+D) Salaries and Wages Payable Work in Process
+Answer: C Level: Medium LO: 1
+XXX
+XXX
+XXX
+XXX
+XXX XXX
+XXX XXX
+XXX
+17. Which of the following journal entries would be used to record application of manufacturing overhead to work in process in a process costing system with two processing departments, department A and department B?
+A) Manufacturing Overhead
+Work in Process–Department A
+Work in Process–Department B
+B) Work in Process–Department A Work in Process–Department B
+Manufacturing Overhead
+C) Work in Process–Department B
+Work in Process–Department A
+Manufacturing Overhead
+D) Work in Process–Department A
+Work in Process–Department B Manufacturing Overhead
+Answer: B Level: Easy LO: 1
+XXX
+XXX
+XXX XXX
+XXX
+XXX
+XXX
+XXX
+XXX XXX
+XXX XXX
+18. Costs in an operation costing system are accumulated by: A) department.
+B) byindividualjob.
+C) bybothjobanddepartments. D) byneitherjobnordepartment.
+Answer: C Level: Easy LO: 1
+Garrison, Managerial Accounting, 12th Edition 127
+Chapter 4 Systems Design: Process Costing
+19. A process costing system was used for a department that began operations in January. Approximately the same number of physical units, at the same degree of completion were in work in process at the end of both January and February. Monthly conversion costs are allocated between ending work in process and units completed. Compared to the FIFO method, would the weighted-average method use the same or a greater number of equivalent units to calculate the monthly allocations?
+Equivalent units for weighted average compared to FIFO
+ 128
+Garrison, Managerial Accounting, 12th Edition
+January
+A) Same
+B) Greater number
+C) Greaternumber Same
+D) Same Greaternumber
+Answer: D Level: Hard LO: 2,6 Source: CPA, adapted Appendix: 4
+20. The FIFO method provides a major advantage over the weighted-average method in that:
+A) thecalculationofequivalentunitsislesscomplexundertheFIFOmethod.
+B) theFIFOmethodtreatsunitsinthebeginninginventoryasiftheywerestartedand
+completed during the current period.
+C) theFIFOmethodprovidesmeasurementsofworkdoneduringthecurrentperiod.
+D) the weighted-average method ignores units in the beginning and ending work in
+process inventories.
+Answer: C Level: Medium LO: 2,6 Appendix: 4
+21. The weighted-average method of process costing differs from the FIFO method of process costing in that the weighted-average method:
+A) canbeusedunderanycostflowassumption.
+B) doesnotrequiretheuseofpredeterminedoverheadrates.
+C) keeps costs in the beginning inventory separate from current period costs.
+D) does not consider the degree of completion of units in the beginning work in
+process inventory when computing equivalent units of production.
+Answer: D Level: Medium LO: 2,6 Appendix: 4
+February
+Same Greater number
+
+Chapter 4 Systems Design: Process Costing
+22. Which of the following statements about process costing system is incorrect?
+A) Inaprocesscostingsystem,eachprocessingdepartmenthasaworkinprocess
+account.
+B) Inaprocesscostingsystem,equivalentunitsareseparatelycomputedformaterials
+and for conversion costs.
+C) Inaprocesscostingsystem,overheadcanbeunder-oroverappliedjustasinjob-
+order costing.
+D) Inaprocesscostingsystem,materialscostsaretracedtounitsofproducts.
+Answer: D Level: Hard LO: 2,10
+23. When the weighted-average method of process costing is used, a department's equivalent units are computed by:
+A) subtractingtheequivalentunitsinbeginninginventoryfromtheequivalentunits
+in ending inventory.
+B) subtractingtheequivalentunitsinbeginninginventoryfromtheequivalentunits
+for work performed during the period.
+C) addingtheunitstransferredouttotheequivalentunitsinendinginventory.
+D) subtractingtheequivalentunitsinbeginninginventoryfromthesumoftheunits
+transferred out and the equivalent units in ending inventory.
+Answer: C Level: Medium LO: 2
+24. Equivalent units for a process costing system using the FIFO method would be equal to:
+A) unitscompletedduringtheperiodplusequivalentunitsintheendingworkin process inventory.
+B) unitsstartedandcompletedduringtheperiodplusequivalentunitsintheending work in process inventory.
+C) unitscompletedduringtheperiodandtransferredout.
+D) unitsstartedandcompletedduringtheperiodplusequivalentunitsintheending
+work in process inventory plus work needed to complete units in the beginning work in process inventory.
+Answer: D Level: Medium LO: 6 Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+129
+
+Chapter 4 Systems Design: Process Costing
+25. Which of the following types of entities would be most likely to use a process costing system?
+A) ashipbuilder
+B) afurnituremanufacturer
+C) alawfirm
+D) autilityproducingnaturalgas
+Answer: D Level: Easy LO: 10
+26. Darvin Company uses the weighted-average method in its process costing system. The first processing department, the Welding Department, started the month with 20,000 units in its beginning work in process inventory that were 10% complete with respect to conversion costs. The conversion cost in this beginning work in process inventory was $7,000. An additional 63,000 units were started into production during the month. There were 10,000 units in the ending work in process inventory of the Welding Department that were 10% complete with respect to conversion costs. A total of $237,600 in conversion costs were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for the month? (Round off to three decimal places.)
+A) $3.255
+B) $3.771
+C) $3.500 D) $3.305
+Answer: D Level: Medium LO: 2,3,4
+27. Dedra Company uses the weighted-average method in its process costing system. The first processing department, the Welding Department, started the month with 10,000 units in its beginning work in process inventory that were 50% complete with respect to conversion costs. The conversion cost in this beginning work in process inventory was $37,500. An additional 98,000 units were started into production during the month. There were 17,000 units in the ending work in process inventory of the Welding Department that were 80% complete with respect to conversion costs. A total of $727,080 in conversion costs were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for the month? (Round off to three decimal places.)
+A) $6.322
+B) $7.419
+130
+Garrison, Managerial Accounting, 12th Edition
+C) $7.500 D) $7.310
+Answer: D Level: Medium
+LO: 2,3,4
+
+Chapter 4 Systems Design: Process Costing
+28. Luster Company uses the weighted-average method in its process costing system. Operating data for the first processing department for the month of June appear below:
+Beginning work in process inventory .............. StartedintoproductionduringJune................ Ending work in process inventory ...................
+Percentage Units complete
+13,000 40% 98,000
+11,000 30%
+According to the company's records, the conversion cost in beginning work in process inventory was $39,364 at the beginning of June. Additional conversion costs of $721,035 were incurred in the department during the month.
+What was the cost per equivalent unit for conversion costs for the month? (Round off to three decimal places.)
+A) $6.615
+B) $7.358
+C) $7.361 D) $7.570
+Answer: C Level: Medium LO: 2,3,4
+29. Lumdal Company uses the weighted-average method in its process costing system. Operating data for the first processing department for the month of June appear below:
+Beginning work in process inventory .............. StartedintoproductionduringJune................ Ending work in process inventory ...................
+Percentage Units complete
+10,000 90% 75,000
+17,000 40%
+According to the company's records, the conversion cost in beginning work in process inventory was $77,490 at the beginning of June. Additional conversion costs of $552,062 were incurred in the department during the month.
+What was the cost per equivalent unit for conversion costs for the month? (Round off to three decimal places.)
+A) $8.610
+B) $7.361
+C) $6.001 D) $8.416
+Answer: D Level: Medium LO: 2,3,4
+Garrison, Managerial Accounting, 12th Edition 131
+
+Chapter 4 Systems Design: Process Costing
+132
+Garrison, Managerial Accounting, 12th Edition
+30.
+Boml Company uses the weighted-average method in its process costing system. The Assembly Department started the month with 4,000 units in its beginning work in process inventory that were 20% complete with respect to conversion costs. An additional 62,000 units were transferred in from the prior department during the month to begin processing in the Assembly Department. There were 14,000 units in the ending work in process inventory of the Assembly Department that were 30% complete with respect to conversion costs.
+What were the equivalent units for conversion costs in the Assembly Department for the month?
+A) 56,200
+B) 55,400
+31.
+Bricker Company uses the weighted-average method in its process costing system. The Assembly Department started the month with 5,000 units in its beginning work in process inventory that were 60% complete with respect to conversion costs. An additional 81,000 units were transferred in from the prior department during the month to begin processing in the Assembly Department. There were 18,000 units in the ending work in process inventory of the Assembly Department that were 80% complete with respect to conversion costs.
+What were the equivalent units for conversion costs in the Assembly Department for the month?
+A) 79,400
+B) 82,400
+C) 72,000 D) 52,000
+Answer: A Level: Medium
+LO: 2,3
+C) 94,000 D) 68,000
+Answer: B Level: Medium
+LO: 2,3
+
+Chapter 4 Systems Design: Process Costing
+32. Jinker Company uses the weighted-average method in its process costing system. Operating data for the Painting Department for the month of April appear below:
+Beginning work in process inventory.............................. Transferred in from the prior department during April... Ending work in process inventory...................................
+6,700 50% 57,800
+7,600 60%
+What were the equivalent units for conversion costs in the Painting Department for April?
+A) 56,900
+B) 61,460
+C) 62,360 D) 58,700
+Answer: B Level: Medium
+LO: 2,3
+33. Jumil Company uses the weighted-average method in its process costing system. Operating data for the Painting Department for the month of April appear below:
+Beginning work in process inventory.............................. Transferred in from the prior department during April... Ending work in process inventory...................................
+4,700 40% 56,600
+6,300 60%
+What were the equivalent units for conversion costs in the Painting Department for April?
+A) 58,200
+B) 60,380
+C) 58,780 D) 55,000
+Answer: C Level: Medium
+LO: 2,3
+Garrison, Managerial Accounting, 12th Edition 133
+Units
+Percentage complete
+Units
+Percentage complete
+
+Chapter 4 Systems Design: Process Costing
+134
+Garrison, Managerial Accounting, 12th Edition
+34.
+Hafner Company uses the weighted-average method in its process costing system. The first processing department, the Welding Department, started the month with 13,000 units in its beginning work in process inventory that were 80% complete with respect to conversion costs. The conversion cost in this beginning work in process inventory was $23,920. An additional 66,000 units were started into production during the month and 68,000 units were completed in the Welding Department and transferred to the next processing department. There were 11,000 units in the ending work in process inventory of the Welding Department that were 30% complete with respect to conversion costs. A total of $127,890 in conversion costs were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for the month? (Round off to three decimal places.)
+A) $2.129
+B) $2.300
+C) $1.661 D) $1.938
+Answer: A Level: Medium LO: 2,4
+Hall Company uses the weighted-average method in its process costing system. The first processing department, the Welding Department, started the month with 18,000 units in its beginning work in process inventory that were 60% complete with respect to conversion costs. The conversion cost in this beginning work in process inventory was $64,800. An additional 84,000 units were started into production during the month and 78,000 units were completed in the Welding Department and transferred to the next processing department. There were 24,000 units in the ending work in process inventory of the Welding Department that were 30% complete with respect to conversion costs. A total of $431,520 in conversion costs were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for the month? (Round off to three decimal places.)
+A) $5.825
+B) $3.996
+35.
+C) $5.137 D) $6.000
+Answer: A Level: Medium
+LO: 2,4
+
+Chapter 4 Systems Design: Process Costing
+36. Pajona Company uses the weighted-average method in its process costing system. The Molding Department is the second department in its production process. The data below summarize the department's operations in January.
+Beginning work in process inventory..................... Transferred in from the prior department during
+January ................................................................ Completed and transferred to the next department
+during January .................................................... Ending work in process inventory..........................
+Percentage Units complete
+7,400 60%
+66,000
+69,700
+3,700 70%
+The accounting records indicate that the conversion cost that had been assigned to beginning work in process inventory was $31,302 and a total of $497,341 in conversion costs were incurred in the department during January.
+What was the cost per equivalent unit for conversion costs for January in the Molding Department? (Round off to three decimal places.)
+A) $7.535
+B) $7.050
+C) $7.313 D) $7.135
+Answer: C Level: Medium LO: 2,4
+
+
+Pampin Company uses the weighted-average method in its process costing system. The Molding Department is the second department in its production process. The data below summarize the department's operations in January.
+38.
+The accounting records indicate that the conversion cost that had been assigned to beginning work in process inventory was $17,328 and a total of $161,085 in conversion costs were incurred in the department during January.
+What was the cost per equivalent unit for conversion costs for January in the Molding Department? (Round off to three decimal places.)
+A) $3.610
+B) $3.746
+C) $3.215 D) $3.861
+Answer: D Level: Medium LO: 2,4
+Fabre Corporation uses the weighted-average method in its process costing system. The Assembly Department started the month with 3,000 units in its beginning work in process inventory that were 70% complete with respect to conversion costs. An additional 90,000 units were transferred in from the prior department during the month to begin processing in the Assembly Department. During the month 75,000 units were completed in the Assembly Department and transferred to the next processing department. There were 18,000 units in the ending work in process inventory of the Assembly Department that were 50% complete with respect to conversion costs.
+What were the equivalent units for conversion costs in the Assembly Department for the month?
+A) 105,000
+B) 75,000
+Beginning work in process inventory.............................. Transferred in from the prior department during
+January ......................................................................... Completed and transferred to the next department
+during January ............................................................. Ending work in process inventory...................................
+9,600 50%
+43,000
+45,500
+7,100 10%
+C) 84,000 D) 81,900
+Answer: C
+Level: Easy
+LO: 2
+
+
+
+Faivre Corporation uses the weighted-average method in its process costing system. The Assembly Department started the month with 13,000 units in its beginning work in process inventory that were 20% complete with respect to conversion costs. An additional 55,000 units were transferred in from the prior department during the month to begin processing in the Assembly Department. During the month 67,000 units were completed in the Assembly Department and transferred to the next processing department. There were 1,000 units in the ending work in process inventory of the Assembly Department that were 50% complete with respect to conversion costs.
+What were the equivalent units for conversion costs in the Assembly Department for the month?
+A) 43,000
+B) 64,900
+C) 67,000 D) 67,500
+Answer: D Level: Easy
+LO: 2
+40. Nabeth Corporation uses the weighted-average method in its process costing system. Operating data for the Lubricating Department for the month of October appear below:
+Beginning work in process inventory.............................. Transferred in from the prior department during
+October ........................................................................ Completed and transferred to the next department
+during October ............................................................. Ending work in process inventory...................................
+7,700 80%
+48,800
+55,400
+1,100 90%
+What were the equivalent units for conversion costs in the Lubricating Department for October?
+A) 56,390
+B) 42,200
+C) 55,400 D) 49,790
+Answer: A Level: Easy
+LO: 2
+Garrison, Managerial Accounting, 12th Edition 137
+Units
+Percentage complete
+Chapter 4 Systems Design: Process Costing
+138
+Garrison, Managerial Accounting, 12th Edition
+41.
+Naleer Corporation uses the weighted-average method in its process costing system. Operating data for the Lubricating Department for the month of October appear below:
+42.
+Sadanand Corporation uses the weighted-average method in its process costing system. The Fitting Department is the second department in its production process. The data below summarize the department's operations in March.
+Beginning work in process inventory............................. Transferred in from the prior department during
+October ....................................................................... Completed and transferred to the next department
+during October ............................................................ Ending work in process inventory..................................
+3,400 30%
+49,500
+48,800
+4,100 90%
+What were the equivalent units for conversion costs in the Lubricating Department for October?
+A) 50,200
+B) 48,800
+C) 52,490 D) 53,190
+Answer: C Level: Easy
+LO: 2
+Beginning work in process inventory..................... Transferred in from the prior department during
+March .................................................................. Ending work in process inventory...........................
+1,100 40%
+46,000
+4,600 30%
+The Fitting Department's production report indicates that the cost per equivalent unit for conversion cost for March was $9.24.
+How much conversion cost was assigned to the units transferred out of the Fitting Department during March?
+A) $388,634.40
+B) $425,040.00
+C) $435,204.00 D) $392,700.00
+Answer: D Level: Medium
+LO: 3,5
+Units
+Percentage complete
+Units
+Percentage complete
+
+Chapter 4 Systems Design: Process Costing
+43. Sadron Corporation uses the weighted-average method in its process costing system. The Fitting Department is the second department in its production process. The data below summarize the department's operations in March.
+Beginning work in process inventory..................... Transferred in from the prior department during
+March .................................................................. Ending work in process inventory..........................
+6,200 20%
+45,000
+3,200 60%
+The Fitting Department's production report indicates that the cost per equivalent unit for conversion cost for March was $7.42.
+How much conversion cost was assigned to the units transferred out of the Fitting Department during March?
+A) $356,160.00
+B) $379,904.00
+C) $333,900.00 D) $346,959.20
+Answer: A Level: Medium LO: 3,5
+44. The Assembly Department started the month with 59,000 units in its beginning work in process inventory. An additional 367,000 units were transferred in from the prior department during the month to begin processing in the Assembly Department. There were 35,000 units in the ending work in process inventory of the Assembly Department.
+How many units were transferred to the next processing department during the month? A) 391,000
+B) 426,000
+C) 343,000
+D) 461,000
+Answer: A Level: Easy LO: 3
+Garrison, Managerial Accounting, 12th Edition 139
+Units
+Percentage complete
+
+Chapter 4 Systems Design: Process Costing
+140
+Garrison, Managerial Accounting, 12th Edition
+45.
+The Assembly Department started the month with 78,000 units in its beginning work in process inventory. An additional 254,000 units were transferred in from the prior department during the month to begin processing in the Assembly Department. There were 21,000 units in the ending work in process inventory of the Assembly Department.
+How many units were transferred to the next processing department during the month? A) 332,000
+B) 311,000
+C) 197,000
+D) 353,000
+Answer: B Level: Easy LO: 3
+Brooks Company uses the weighted-average method in its process costing system. The beginning work in process inventory in a particular department consisted of 12,000 units, 100% complete with respect to materials cost and 40% complete with respect to conversion costs. The total cost in the beginning work in process inventory was $25,000. During the month, 50,000 units were completed and transferred out of the department. The costs per equivalent unit were computed to be $1.50 for materials and $3.20 for conversion costs. The total cost of the units completed and transferred out of the department was:
+46.
+A) $235,000. B) $226,640. C) $210,000. D) $201,640.
+Answer: A Level: Medium
+LO: 5
+
+Chapter 4 Systems Design: Process Costing
+47. Rameau Corporation uses the weighted-average method in its process costing system. The Molding Department is the second department in its production process. The data below summarize the department's operations in January.
+Beginning work in process inventory.............................. Transferred in from the prior department during
+January ......................................................................... Completed and transferred to the next department
+during January ............................................................. Ending work in process inventory...................................
+5,600 60%
+47,000
+50,300
+2,300 40%
+The Molding Department's production report indicates that the cost per equivalent unit for conversion cost for January was $5.29.
+How much conversion cost was assigned to the ending work in process inventory in the Molding Department for January?
+A) $7,300.20
+B) $12,167.00
+C) $11,849.60 D) $4,866.80
+Answer: D Level: Easy LO: 5
+Garrison, Managerial Accounting, 12th Edition 141
+Units
+Percentage complete
+
+Chapter 4 Systems Design: Process Costing
+142
+Garrison, Managerial Accounting, 12th Edition
+48.
+Ramos Corporation uses the weighted-average method in its process costing system. The Molding Department is the second department in its production process. The data below summarize the department's operations in January.
+49.
+The Molding Department's production report indicates that the cost per equivalent unit for conversion cost for January was $1.12.
+How much conversion cost was assigned to the ending work in process inventory in the Molding Department for January?
+A) $985.60
+B) $1,881.60
+C) $1,232.00 D) $246.40
+Answer: D Level: Easy LO: 5
+Ebart Company uses the FIFO method in its process costing system. The first processing department, the Welding Department, started the month with 14,000 units in its beginning work in process inventory that were 70% complete with respect to conversion costs. The conversion cost in this beginning work in process inventory was $20,580. An additional 53,000 units were started into production during the month. There were 17,000 units in the ending work in process inventory of the Welding Department that were 20% complete with respect to conversion costs. A total of $80,660 in conversion costs were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for the month on the department's production report? (Round off to three decimal places.)
+A) $1.522
+B) $2.100
+Beginning work in process inventory.............................. Transferred in from the prior department during
+January ......................................................................... Completed and transferred to the next department
+during January ............................................................. Ending work in process inventory...................................
+2,800 40%
+45,000
+46,700
+1,100 20%
+C) $1.850 D) $1.511
+Answer: C
+Level: Medium
+LO: 6,7,8
+Appendix: 4
+Units
+Percentage complete
+
+Chapter 4 Systems Design: Process Costing
+50. Eden Company uses the FIFO method in its process costing system. The first processing department, the Welding Department, started the month with 10,000 units in its beginning work in process inventory that were 50% complete with respect to conversion costs. The conversion cost in this beginning work in process inventory was $35,500. An additional 76,000 units were started into production during the month. There were 10,000 units in the ending work in process inventory of the Welding Department that were 80% complete with respect to conversion costs. A total of $541,150 in conversion costs were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for the month on the department's production report? (Round off to three decimal places.)
+A) $6.850
+B) $7.120
+C) $6.705 D) $7.100
+Answer: A Level: Medium LO: 6,7,8 Appendix: 4
+51. Maenhout Corporation uses the FIFO method in its process costing system. Operating data for the Casting Department for the month of September appear below:
+Beginning work in process inventory.............................. Transferred in from the prior department during
+September .................................................................... Ending work in process inventory...................................
+21,000 60%
+64,000
+22,000 70%
+According to the company's records, the conversion cost in beginning work in process inventory was $31,500 at the beginning of September. Additional conversion costs of $172,396 were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for September on the Casting Department's production report? (Round off to three decimal places.)
+A) $2.399
+B) $2.694
+C) $2.500 D) $2.620
+Answer: D Level: Medium LO: 6,7,8
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+143
+Units
+Percentage complete
+
+Chapter 4 Systems Design: Process Costing
+144
+Garrison, Managerial Accounting, 12th Edition
+52.
+Maher Corporation uses the FIFO method in its process costing system. Operating data for the Casting Department for the month of September appear below:
+53.
+According to the company's records, the conversion cost in beginning work in process inventory was $8,960 at the beginning of September. Additional conversion costs of $671,560 were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for September on the Casting Department's production report? (Round off to three decimal places.)
+A) $6.520
+B) $6.923
+C) $6.400 D) $6.131
+Answer: A Level: Medium LO: 6,7,8 Appendix: 4
+Camel Company uses the FIFO method in its process costing system. The Assembly Department started the month with 5,000 units in its beginning work in process inventory that were 80% complete with respect to conversion costs. An additional 62,000 units were transferred in from the prior department during the month to begin processing in the Assembly Department. There were 2,000 units in the ending work in process inventory of the Assembly Department that were 20% complete with respect to conversion costs.
+What were the equivalent units for conversion costs in the Assembly Department for the month?
+A) 65,400
+B) 65,000
+Beginning work in process inventory.............................. Transferred in from the prior department during
+September .................................................................... Ending work in process inventory...................................
+14,000 10%
+97,000
+22,000 70%
+C) 59,000 D) 61,400
+Answer: D
+Level: Medium
+LO: 6,7
+Appendix: 4
+Units
+Percentage complete
+
+
+54. Cawper Company uses the FIFO method in its process costing system. The Assembly Department started the month with 10,000 units in its beginning work in process inventory that were 10% complete with respect to conversion costs. An additional 55,000 units were transferred in from the prior department during the month to begin processing in the Assembly Department. There were 19,000 units in the ending work in process inventory of the Assembly Department that were 20% complete with respect to conversion costs.
+What were the equivalent units for conversion costs in the Assembly Department for the month?
+A) 49,800
+B) 48,800
+C) 64,000 D) 46,000
+Answer: B Level: Medium
+LO: 6,7
+Appendix: 4
+55. Kapstein Corporation uses the FIFO method in its process costing system. Operating data for the Enameling Department for the month of May appear below:
+Beginning work in process inventory.............................. Transferred in from the prior department during May .... Ending work in process inventory...................................
+6,400 10% 51,200
+3,800 40%
+What were the equivalent units for conversion costs in the Enameling Department for May?
+A) 53,800
+B) 48,600
+C) 55,320 D) 54,680
+Answer: D Level: Medium
+LO: 6,7
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+145
+Units
+Percentage complete
+
+
+
+Kalra Corporation uses the FIFO method in its process costing system. Operating data for the Enameling Department for the month of May appear below:
+57.
+Overhill Company uses the FIFO method in its process costing system. In the Cutting Department in June, units were 80% complete with respect to conversion in the beginning work in process inventory and 25% complete with respect to conversion in the ending work in process inventory. Other data for the department for June follow:
+Beginning work in process inventory.............................. Transferred in from the prior department during May .... Ending work in process inventory...................................
+7,200 20% 70,100
+2,600 80%
+What were the equivalent units for conversion costs in the Enameling Department for May?
+A) 65,500
+B) 76,780
+C) 74,700 D) 75,340
+Answer: D Level: Medium
+LO: 6,7
+Appendix: 4
+Beginning work in process inventory.............................. Units started into production, and costs incurred during
+the month ..................................................................... Units completed and transferred out ...............................
+The cost per equivalent unit for conversion cost is closest to: A) $1.48
+B) $1.50
+C) $1.16
+Units
+20,000
+150,000 130,000
+Conversion Cost
+$40,000 $186,000
+D) $1.82 Answer: B
+Level: Medium
+LO: 6,8
+Appendix: 4
+Units
+Percentage complete
+Chapter 4 Systems Design: Process Costing
+58. Inacio Corporation uses the FIFO method in its process costing system. The first processing department, the Forming Department, started the month with 22,000 units in its beginning work in process inventory that were 70% complete with respect to conversion costs. The conversion cost in this beginning work in process inventory was $38,500. An additional 71,000 units were started into production during the month and 72,000 units were completed and transferred to the next processing department. There were 21,000 units in the ending work in process inventory of the Forming Department that were 40% complete with respect to conversion costs. A total of $148,850 in conversion costs were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for the month on the Forming Department's production report? (Round off to three decimal places.)
+A) $2.500
+B) $2.015
+C) $2.096 D) $2.290
+Answer: D Level: Medium LO: 6,8 Appendix: 4
+59. Iyer Corporation uses the FIFO method in its process costing system. The first processing department, the Forming Department, started the month with 14,000 units in its beginning work in process inventory that were 20% complete with respect to conversion costs. The conversion cost in this beginning work in process inventory was $3,360. An additional 92,000 units were started into production during the month and 95,000 units were completed and transferred to the next processing department. There were 11,000 units in the ending work in process inventory of the Forming Department that were 10% complete with respect to conversion costs. A total of $92,367 in conversion costs were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for the month on the Forming Department's production report? (Round off to three decimal places.)
+A) $1.004
+B) $0.990
+C) $1.200 D) $0.903
+Answer: B Level: Medium LO: 6,8
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+147
+
+Chapter 4 Systems Design: Process Costing
+148
+Garrison, Managerial Accounting, 12th Edition
+60.
+Qimper Corporation uses the FIFO method in its process costing system. Operating data for the Cutting Department for the month of March appear below:
+Beginning work in process inventory................................ Transferred in from the prior department during March... Completed and transferred to the next department during
+March ............................................................................. Ending work in process inventory.....................................
+6,600 70% 54,000
+58,600
+2,000 40%
+According to the company's records, the conversion cost in beginning work in process inventory was $38,069 at the beginning of March. Additional conversion costs of $444,047 were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for March on the Cutting Department's production report? (Round off to three decimal places.)
+A) $7.956
+B) $8.223
+C) $8.106 D) $8.240
+Answer: C
+Level: Medium
+LO: 6,8
+Appendix: 4
+Units
+Percentage complete
+
+Chapter 4 Systems Design: Process Costing
+61. Quis Corporation uses the FIFO method in its process costing system. Operating data for the Cutting Department for the month of March appear below:
+Beginning work in process inventory.......................... Transferred in from the prior department during
+March ....................................................................... Completed and transferred to the next department
+during March ........................................................... Ending work in process inventory...............................
+9,600 70%
+47,000
+49,600
+7,000 90%
+According to the company's records, the conversion cost in beginning work in process inventory was $26,880 at the beginning of March. Additional conversion costs of $190,130 were incurred in the department during the month.
+What would be the cost per equivalent unit for conversion costs for March on the Cutting Department's production report? (Round off to three decimal places.)
+A) $3.866
+B) $3.834
+C) $4.045 D) $4.000
+Answer: A Level: Medium LO: 6,8 Appendix: 4
+62. Williams Company uses the FIFO method in its process costing system. The beginning work in process inventory in a particular department consisted of 10,000 units, 100% complete with respect to materials and 60% with respect to conversion costs. The total cost in the beginning work in process inventory was $48,200. During the month, 25,000 units were transferred out of the department. The costs per equivalent unit were computed to be $3.10 for materials and $4.50 for conversion costs. The total cost of the units completed and transferred out of the department was: A) $190,000
+B) $189,200
+C) $180,200
+D) $132,000
+Answer: C Level: Hard LO: 6,9
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+149
+Units
+Percentage complete
+
+Chapter 4 Systems Design: Process Costing
+150
+Garrison, Managerial Accounting, 12th Edition
+63.
+Walden Company has a process costing system and uses the FIFO method. All materials are introduced at the beginning of the process in Department One. The following information is available for the month of January for Department One:
+Units
+Work in process, January 1 (conversion 40% complete) ..... 500 Started in January ................................................................. 2,000 Transferred to Department Two during January .................. 2,100 Work in process, January 31 (conversion 25% complete) ... 400
+What are the equivalent units for the month of January?
+Materials Conversion Cost
+A) 2,500 2,200 B) 2,500 1,900 C) 2,000 2,200 D) 2,000 2,000
+Answer: D Level: Medium LO: 6 Source: CPA, adapted Appendix: 4
+Mann Company uses the FIFO method in its process costing system. Department A is the first stage of the company's production process. The following information is available for conversion costs for the month of April in Department A:
+Units
+20,000 340,000 320,000
+40,000
+64.
+Work in process, beginning (60% complete) .................. Started in April ................................................................ Completed in April and transferred to Department B ..... Work in process, ending (40% complete) .......................
+The equivalent units for conversion costs are: A) 320,000
+B) 324,000
+C) 336,000
+D) 360,000 Answer: B
+Level: Easy
+LO: 6
+Source: CPA, adapted
+Appendix: 4
+
+Chapter 4 Systems Design: Process Costing
+65. Laurie Company uses the FIFO method in its process costing system. Department A is the first stage of Laurie Company's production process. The following information is available for conversion costs for the month of May for Department A:
+Units
+Work in process, beginning (conversion 25% complete)..... 8,000 Started in May ...................................................................... 40,000 Completed in May and transferred to Department B ........... 38,000 Work in process, ending (conversion 60% complete).......... 10,000
+The equivalent units of production for conversion costs for the month are:
+A) 42,000 units
+B) 38,000 units
+C) 44,000 units
+D) 36,000 units
+Answer: A Level: Medium LO: 6 Appendix: 4
+66. Richardson Company uses the FIFO method in its process costing system. During June, 40,000 units were completed in Department M. Of this total, 5,000 were in the beginning work in process and the remainder were started and completed during the month. Materials are added at the beginning of the process. A total of 10,000 units were in work in process at June 30; these units were 80% complete with respect to
+conversion conversion
+A) 39,000
+B) 45,000
+C) 46,000
+D) 48,000
+Answer: C
+costs. The work in process at June 1 was 40% complete with respect to costs. The equivalent units for conversion costs were:
+units
+units
+units units
+Level: Medium LO: 6
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+151
+
+Chapter 4 Systems Design: Process Costing
+152
+Garrison, Managerial Accounting, 12th Edition
+67.
+Gabel Corporation uses the FIFO method in its process costing system. The Grinding Department started the month with 10,000 units in its beginning work in process inventory that were 70% complete with respect to conversion costs. An additional 85,000 units were transferred in from the prior department during the month to begin processing in the Grinding Department. During the month 81,000 units were completed in the Grinding Department and transferred to the next processing department. There were 14,000 units in the ending work in process inventory of the Grinding Department that were 90% complete with respect to conversion costs.
+What were the equivalent units for conversion costs in the Grinding Department for the month?
+A) 86,600
+B) 93,600
+68.
+Gabriel Corporation uses the FIFO method in its process costing system. The Grinding Department started the month with 15,000 units in its beginning work in process inventory that were 70% complete with respect to conversion costs. An additional 58,000 units were transferred in from the prior department during the month to begin processing in the Grinding Department. During the month 64,000 units were completed in the Grinding Department and transferred to the next processing department. There were 9,000 units in the ending work in process inventory of the Grinding Department that were 90% complete with respect to conversion costs.
+What were the equivalent units for conversion costs in the Grinding Department for the month?
+C) 81,000 D) 89,000
+Answer: A Level: Medium
+LO: 6
+Appendix: 4
+A) 64,000 B) 72,100 C) 61,600 D) 52,000
+Answer: C Level: Medium
+LO: 6
+Appendix: 4
+
+Chapter 4 Systems Design: Process Costing
+69. Osman Company uses the FIFO method in its process costing system. Operating data for the Brazing Department for the month of November appear below:
+Beginning work in process inventory.............................. Transferred in from the prior department during
+November .................................................................... Completed and transferred to the next department
+during November ......................................................... Ending work in process inventory...................................
+7,600 30%
+52,700
+54,000
+6,300 80%
+What were the equivalent units for conversion costs in the Brazing Department for November?
+A) 59,040
+B) 54,000
+C) 56,760 D) 51,400
+Answer: C
+Level: Medium
+LO: 6
+Appendix: 4
+70. Oreilley Company uses the FIFO method in its process costing system. Operating data for the Brazing Department for the month of November appear below:
+Beginning work in process inventory.............................. Transferred in from the prior department during
+November .................................................................... Completed and transferred to the next department
+during November ......................................................... Ending work in process inventory...................................
+5,300 30%
+30,000
+32,500
+2,800 70%
+What were the equivalent units for conversion costs in the Brazing Department for November?
+A) 34,460
+B) 32,500
+C) 27,500 D) 32,870
+Answer: D
+Level: Medium
+LO: 6
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+153
+Units
+Percentage complete
+Units
+Percentage complete
+
+Chapter 4 Systems Design: Process Costing
+154
+Garrison, Managerial Accounting, 12th Edition
+71.
+Steven Company uses the FIFO method in its process costing system. Department A's beginning work in process inventory consisted of 15,000 units, 100% complete with respect to materials and 40% complete with respect to conversion costs. The total dollar value of this inventory was $31,000. A total of 40,000 units were transferred out during the month. The costs per equivalent unit were computed to be $1.30 for materials and $2.20 for conversion costs. The cost of the units completed and transferred out was:
+A) $140,000 B) $138,300 C) $131,700 D) $118,500
+Answer: B Level: Medium LO: 9 Appendix: 4
+Marlow Company uses the FIFO method in its process costing system. Department A's beginning work in process inventory consisted of 12,000 units, 100% complete with respect to materials cost and 60% complete with respect to conversion costs. The total cost in the beginning work in process inventory was $56,400. A total of 25,000 units were transferred out during the month. The cost per equivalent unit was computed to be $3.40 for materials and $4.70 for conversion costs. The total cost of the units completed and transferred out was:
+72.
+A) $195,540 B) $146,100 C) $202,500 D) $184,260
+Answer: D Level: Medium
+LO: 9
+Appendix: 4
+
+Chapter 4 Systems Design: Process Costing
+73. Tanner Corporation uses the FIFO method in its process costing system. Operating data for the Curing Department for the month of March appear below:
+Beginning work in process inventory.............................. Transferred in from the prior department during March. Completed and transferred to the next department
+during March ............................................................... Ending work in process inventory...................................
+8,200 80% 52,000
+54,200
+6,000 50%
+According to the company's records, the conversion cost in beginning work in process inventory was $7,872 at the beginning of March. The cost per equivalent unit for conversion costs for March was $1.10.
+How much conversion cost would be assigned to the units completed and transferred out of the department during March?
+A) $52,404
+B) $59,620
+C) $60,276 D) $57,200
+Answer: C Level: Medium LO: 9
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+155
+Units
+Percentage complete
+
+
+
+Tanguy Corporation uses the FIFO method in its process costing system. Operating data for the Curing Department for the month of March appear below:
+Beginning work in process inventory.............................. 2,500 70% Transferred in from the prior department during March. 44,000 Completed and transferred to the next department
+during March ............................................................... 38,500
+Ending work in process inventory................................... 8,000 10%
+According to the company's records, the conversion cost in beginning work in process inventory was $7,350 at the beginning of March. The cost per equivalent unit for conversion costs for March was $4.10.
+How much conversion cost would be assigned to the units completed and transferred out of the department during March?
+A) $150,675
+B) $180,400
+C) $158,025 D) $157,850
+Answer: C Level: Medium
+LO: 9
+Appendix: 4
+Units
+Percentage complete
+Chapter 4 Systems Design: Process Costing
+Use the following to answer questions 75-80:
+Annenbaum Corporation uses the weighted-average method in its process costing system. This month, the beginning inventory in the first processing department consisted of 400 units. The costs and percentage completion of these units in beginning inventory were:
+A) 6,250 B) 5,900 C) 350 D) 6,900
+Answer: A
+Level: Medium
+LO: 2,3
+Cost
+Percent Complete
+Materials costs................... $5,700 65% Conversion costs ............... $6,800 45%
+A total of 6,500 units were started and 5,900 units were transferred to the second processing department during the month. The following costs were incurred in the first processing department during the month:
+Materials costs................... $125,500 Conversion costs ............... $207,000
+The ending inventory was 50% complete with respect to materials and 35% complete with respect to conversion costs.
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+75. What are the equivalent units for conversion costs for the month in the first processing department?
+76. The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $19.01
+B) $19.61
+C) $20.50 D) $18.19
+Answer: C Level: Medium
+LO: 4
+Garrison, Managerial Accounting, 12th Edition 157
+
+Chapter 4 Systems Design: Process Costing
+77. The cost per equivalent unit for conversion costs for the first department for the month is closest to:
+158
+Garrison, Managerial Accounting, 12th Edition
+A) $30.99 B) $35.92 C) $33.12 D) $34.21
+Answer: D
+Level: Medium
+LO: 4
+78. The cost per equivalent whole unit for the month in the first processing department is closest to:
+A) $58.47 B) $50.00 C) $57.99 D) $54.71
+Answer: D
+Level: Medium
+LO: 4
+79. The total cost transferred from the first processing department to the next processing department during the month is closest to:
+A) $332,500
+B) $345,000
+C) $322,777 D) $377,485
+Answer: C Level: Medium LO: 5
+80. The cost of ending work in process inventory in the first processing department according to the company's cost system is closest to:
+A) $19,148
+B) $22,223
+C) $54,708 D) $27,354
+Answer: B Level: Medium
+LO: 5
+
+Chapter 4 Systems Design: Process Costing
+Use the following to answer questions 81-87:
+Bistrol Corporation uses the weighted-average method in its process costing system. This month, the beginning inventory in the first processing department consisted of 800 units. The costs and percentage completion of these units in beginning inventory were:
+Cost
+Percent Complete
+Materials costs................... $15,700 75% Conversion costs ............... $7,700 20%
+A total of 8,400 units were started and 7,500 units were transferred to the second processing department during the month. The following costs were incurred in the first processing department during the month:
+Materials costs................... $186,300 Conversion costs ............... $329,800
+The ending inventory was 70% complete with respect to materials and 60% complete with respect to conversion costs.
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+81. How many units are in ending work in process inventory in the first processing department at the end of the month?
+A) 7,600
+B) 900
+C) 1,700 D) 900
+Answer: C Level: Easy LO: 3
+82. What are the equivalent units for conversion costs for the month in the first processing department?
+A) 9,200 B) 8,520 C) 7,500 D) 1,020
+Answer: B
+Level: Medium
+LO: 2
+Garrison, Managerial Accounting, 12th Edition 159
+
+Chapter 4 Systems Design: Process Costing
+83. The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $21.44
+B) $21.96
+160
+Garrison, Managerial Accounting, 12th Edition
+C) $20.25 D) $23.25
+Answer: D Level: Medium
+LO: 4
+84. The cost per equivalent unit for conversion costs for the first department for the month is closest to:
+A) $41.59 B) $38.71 C) $39.61 D) $36.68
+Answer: C
+Level: Medium
+LO: 4
+85. The cost per equivalent whole unit for the month in the first processing department is closest to:
+A) $71.93 B) $62.86 C) $58.64 D) $66.63
+Answer: B
+Level: Medium
+LO: 4
+86. The total cost transferred from the first processing department to the next processing department during the month is closest to:
+A) $516,100
+B) $471,435
+C) $539,500 D) $578,294
+Answer: B Level: Medium
+LO: 5
+
+Chapter 4 Systems Design: Process Costing
+87. The cost of ending work in process inventory in the first processing department according to the company's cost system is closest to:
+A) $68,067
+B) $64,115
+C) $74,801 D) $106,859
+Answer: A Level: Medium LO: 5
+Use the following to answer questions 88-91:
+Carpenter Corporation uses the weighted-average method in its process costing system. This month, the beginning inventory in the first processing department consisted of 600 units. The costs and percentage completion of these units in beginning inventory were:
+Cost
+Percent Complete
+Materials costs................... $5,200 60% Conversion costs ............... $8,500 55%
+A total of 7,800 units were started and 7,100 units were transferred to the second processing department during the month. The following costs were incurred in the first processing department during the month:
+Materials costs................... $95,000 Conversion costs ............... $169,200
+The ending inventory was 85% complete with respect to materials and 70% complete with respect to conversion costs.
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+88. How many units are in ending work in process inventory in the first processing department at the end of the month?
+A) 1,300
+B) 900
+C) 7,200 D) 700
+Answer: A Level: Easy LO: 3
+Garrison, Managerial Accounting, 12th Edition 161
+
+Chapter 4 Systems Design: Process Costing
+89. What are the equivalent units for conversion costs for the month in the first processing department?
+162
+Garrison, Managerial Accounting, 12th Edition
+A) 910 B) 8,010 C) 7,100 D) 8,400
+Answer: B
+Level: Medium
+LO: 2
+90. The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $11.31
+B) $12.21
+C) $11.58 D) $11.93
+Answer: B Level: Medium
+LO: 4
+91. The total cost transferred from the first processing department to the next processing department during the month is closest to:
+A) $264,200
+B) $244,219
+C) $288,935 D) $277,900
+Answer: B Level: Medium
+LO: 5
+
+Chapter 4 Systems Design: Process Costing
+Use the following to answer questions 92-94:
+Esty Corporation uses the weighted-average method in its process costing system. This month, the beginning inventory in the first processing department consisted of 800 units. The costs and percentage completion of these units in beginning inventory were:
+A) 6,790 B) 8,500 C) 6,600 D) 190
+Answer: A
+Level: Medium
+LO: 2,3
+Cost
+Percent Complete
+Materials costs................... $5,800 50% Conversion costs ............... $6,500 30%
+A total of 7,700 units were started and 6,600 units were transferred to the second processing department during the month. The following costs were incurred in the first processing department during the month:
+Materials costs................... $85,300 Conversion costs ............... $168,000
+The ending inventory was 70% complete with respect to materials and 10% complete with respect to conversion costs.
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+92. What are the equivalent units for conversion costs for the month in the first processing department?
+93. The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $10.76
+B) $10.04
+C) $10.72 D) $11.49
+Answer: D Level: Medium
+LO: 4
+Garrison, Managerial Accounting, 12th Edition 163
+
+
+
+The total cost transferred from the first processing department to the next processing department during the month is closest to:
+A) $253,300
+B) $245,441
+C) $316,098 D) $265,600
+Answer: B Level: Medium LO: 4 Use the following to answer questions 95-96:
+Fuller Corporation uses the weighted-average method in its process costing system. This month, the beginning inventory in the first processing department consisted of 700 units. The costs and percentage completion of these units in beginning inventory were:
+164
+Garrison, Managerial Accounting, 12th Edition
+95.
+The total cost transferred from the first processing department to the next processing department during the month is closest to:
+A) $620,100
+B) $646,832
+C) $542,106 D) $596,500
+Answer: C Level: Medium
+LO: 2,3,4,5
+Cost
+Percent Complete
+Materials costs................... $12,700 85% Conversion costs ............... $10,900 30%
+A total of 9,800 units were started and 8,800 units were transferred to the second processing department during the month. The following costs were incurred in the first processing department during the month:
+Materials costs................... $175,600 Conversion costs ............... $420,900
+The ending inventory was 85% complete with respect to materials and 70% complete with respect to conversion costs.
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+Chapter 4 Systems Design: Process Costing
+96. The cost of ending work in process inventory in the first processing department according to the company's cost system is closest to:
+A) $77,994
+B) $73,308
+C) $104,725 D) $89,016
+Answer: A Level: Medium LO: 2,3,4,5 Use the following to answer questions 97-104:
+Gunes Corporation uses the weighted-average method in its process costing system. This month, the beginning inventory in the first processing department consisted of 800 units. The costs and percentage completion of these units in beginning inventory were:
+Cost
+Percent Complete
+Materials costs................... $10,600 65% Conversion costs ............... $12,800 30%
+A total of 8,500 units were started and 7,400 units were transferred to the second processing department during the month. The following costs were incurred in the first processing department during the month:
+Materials costs................... $142,100 Conversion costs ............... $359,500
+The ending inventory was 50% complete with respect to materials and 35% complete with respect to conversion costs.
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+97. How many units are in ending work in process inventory in the first processing department at the end of the month?
+A) 1,900
+B) 1,100
+C) 7,700 D) 900
+Answer: A Level: Easy LO: 3
+Garrison, Managerial Accounting, 12th Edition 165
+
+Chapter 4 Systems Design: Process Costing
+98. What are the equivalent units for materials for the month in the first processing department?
+166
+Garrison, Managerial Accounting, 12th Edition
+A) 7,400 B) 9,300 C) 8,350 D) 950
+Answer: C
+Level: Medium
+LO: 2
+99. What are the equivalent units for conversion costs for the month in the first processing department?
+A) 9,300 B) 8,065 C) 7,400 D) 665
+Answer: B
+Level: Medium LO: 2
+100. The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $18.29 B) $17.02 C) $16.42 D) $15.28
+Answer: A Level: Medium LO: 4
+101. The cost per equivalent unit for conversion costs for the first department for the month is closest to:
+A) $40.03 B) $46.16 C) $44.58 D) $48.47
+Answer: B
+Level: Medium LO: 4
+
+
+The cost per equivalent whole unit for the month in the first processing department is closest to:
+A) $64.45 B) $56.45 C) $68.32 D) $70.95
+Answer: A
+Level: Medium
+LO: 4
+103. The total cost transferred from the first processing department to the next processing department during the month is closest to:
+A) $476,923
+B) $599,376
+C) $501,600 D) $525,000
+Answer: A Level: Medium LO: 5
+104. The cost of ending work in process inventory in the first processing department according to the company's cost system is closest to:
+A) $61,227
+B) $48,071
+C) $42,859 D) $122,453
+Answer: B Level: Medium LO: 5
+Garrison, Managerial Accounting, 12th Edition 167
+Chapter 4 Systems Design: Process Costing
+Use the following to answer questions 105-107:
+Domingo Corporation uses the weighted-average method in its process costing system. This month, the beginning inventory in the first processing department consisted of 400 units. The costs and percentage completion of these units in beginning inventory were:
+105.
+106.
+How many units are in ending work in process inventory in the first processing department at the end of the month?
+A) 700
+B) 900
+C) 6,400 D) 1,100
+Answer: D Level: Easy LO: 3
+What are the equivalent units for conversion costs for the month in the first processing department?
+A) 7,200
+B) 6,925
+168
+Garrison, Managerial Accounting, 12th Edition
+C) 6,100 D) 825
+Answer: B
+Level: Medium
+LO: 2
+Cost
+Percent Complete
+Materials costs................... $5,500 50% Conversion costs ............... $1,700 20%
+A total of 6,800 units were started and 6,100 units were transferred to the second processing department during the month. The following costs were incurred in the first processing department during the month:
+Materials costs................... $158,700 Conversion costs ............... $120,400
+The ending inventory was 85% complete with respect to materials and 75% complete with respect to conversion costs.
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+
+Chapter 4 Systems Design: Process Costing
+107. The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $22.04 B) $22.81 C) $23.34 D) $22.56
+Answer: C Level: Medium
+Use the following to answer questions 108-114:
+Haffner Corporation uses the weighted-average method in its process costing system. Data concerning the first processing department for the most recent month are listed below:
+Beginning work in process inventory:
+Units in beginning work in process inventory ....................... Materials costs........................................................................ Conversion costs .................................................................... Percentage complete with respect to materials ...................... Percentage complete with respect to conversion ...................
+Units started into production during the month ........................ Units transferred to the next department during the month ...... Materials costs added during the month.................................... Conversion costs added during the month ................................ Ending work in process inventory:
+Units in ending work in process inventory ............................ Percentage complete with respect to materials ...................... Percentage complete with respect to conversion ...................
+500 $7,800 $9,100 85% 55% 7,000 6,100 $102,700 $184,400
+1,400 60% 50%
+LO: 4
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+108. What are the equivalent units for materials for the month in the first processing department?
+A) 840 B) 6,940 C) 7,500 D) 6,100
+Answer: B
+Level: Medium
+LO: 2
+Garrison, Managerial Accounting, 12th Edition 169
+
+Chapter 4 Systems Design: Process Costing
+109. What are the equivalent units for conversion costs for the month in the first processing department?
+A) 6,100 B) 700 C) 6,800 D) 7,500
+Answer: C
+170
+Garrison, Managerial Accounting, 12th Edition
+A) $40.53 B) $47.04 C) $44.38 D) $49.84
+Answer: C
+Level: Medium
+LO: 4
+Level: Medium LO: 2
+110. The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $15.92 B) $14.80 C) $13.69 D) $14.73
+Answer: A Level: Medium LO: 4
+111. The cost per equivalent unit for conversion costs for the first department for the month is closest to:
+A) $28.46 B) $25.80 C) $29.88 D) $27.12
+Answer: A
+Level: Medium LO: 4
+112. The cost per equivalent whole unit for the month in the first processing department is closest to:
+
+Chapter 4 Systems Design: Process Costing
+113. The total cost transferred from the first processing department to the next processing department during the month is closest to:
+A) $304,000
+B) $332,835
+C) $270,706 D) $287,100
+Answer: C Level: Medium LO: 5
+114. The cost of ending work in process inventory in the first processing department according to the company's cost system is closest to:
+A) $37,278
+B) $33,293
+C) $62,129 D) $31,065
+Answer: B Level: Medium LO: 5
+Use the following to answer questions 115-116:
+Kurtulus Corporation uses the weighted-average method in its process costing system. Data concerning the first processing department for the most recent month are listed below:
+Beginning work in process inventory:
+Units in beginning work in process inventory ........................ Materials costs......................................................................... Conversion costs ..................................................................... Percentage complete with respect to materials ....................... Percentage complete with respect to conversion ....................
+Units started into production during the month ......................... Units transferred to the next department during the month ....... Materials costs added during the month..................................... Conversion costs added during the month ................................. Ending work in process inventory:
+Units in ending work in process inventory ............................. Percentage complete with respect to materials ....................... Percentage complete with respect to conversion ....................
+600 $7,000 $2,300 55% 25% 6,500 5,700 $110,100 $83,200
+1,400 70% 55%
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+Garrison, Managerial Accounting, 12th Edition 171
+
+Chapter 4 Systems Design: Process Costing
+115. The total cost transferred from the first processing department to the next processing department during the month is closest to:
+A) $202,600
+B) $193,300
+C) $175,247 D) $218,290
+Answer: C Level: Medium LO: 2,4,5
+116. The cost of ending work in process inventory in the first processing department according to the company's cost system is closest to:
+A) $23,674
+B) $43,043
+C) $30,130 D) $27,355
+Answer: D Level: Medium LO: 2,4,5
+Use the following to answer questions 117-120:
+Lucas Corporation uses the weighted-average method in its process costing system. Data concerning the first processing department for the most recent month are listed below:
+Beginning work in process inventory:
+Units in beginning work in process inventory ........................... Materials costs............................................................................ Conversion costs ........................................................................ Percentage complete with respect to materials .......................... Percentage complete with respect to conversion .......................
+Units started into production during the month ............................ Units transferred to the next department during the month .......... Materials costs added during the month........................................ Conversion costs added during the month .................................... Ending work in process inventory:
+Units in ending work in process inventory ................................ Percentage complete with respect to materials .......................... Percentage complete with respect to conversion .......................
+900 $9,600 $7,700 60% 45% 8,100 6,900 $115,800 $120,500
+2,100 75% 20%
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+172 Garrison, Managerial Accounting, 12th Edition
+
+Chapter 4 Systems Design: Process Costing
+117. What are the equivalent units for materials for the month in the first processing department?
+A) 9,000 B) 1,575 C) 6,900 D) 8,475
+Answer: D
+Level: Medium
+LO: 2
+118. The cost per equivalent unit for conversion costs for the first department for the month is closest to:
+A) $18.39 B) $16.46 C) $17.51 D) $14.24
+Answer: C
+Level: Medium
+LO: 4
+119. The cost per equivalent whole unit for the month in the first processing department is closest to:
+A) $28.18 B) $36.75 C) $32.31 D) $34.25
+Answer: C Level: Medium
+LO: 4
+120. The cost of ending work in process inventory in the first processing department according to the company's cost system is closest to:
+A) $13,570
+B) $50,888
+C) $30,660 D) $67,851
+Answer: C Level: Medium LO: 5
+Garrison, Managerial Accounting, 12th Edition 173
+
+Chapter 4 Systems Design: Process Costing
+Use the following to answer questions 121-122:
+Inacio Corporation uses the weighted-average method in its process costing system. Data concerning the first processing department for the most recent month are listed below:
+174
+Garrison, Managerial Accounting, 12th Edition
+Beginning work in process inventory:
+Units in beginning work in process inventory ..................... Materials costs...................................................................... Conversion costs .................................................................. Percentage complete with respect to materials .................... Percentage complete with respect to conversion .................
+Units started into production during the month ...................... Units transferred to the next department during the month .... Materials costs added during the month.................................. Conversion costs added during the month .............................. Ending work in process inventory:
+Units in ending work in process inventory .......................... Percentage complete with respect to materials .................... Percentage complete with respect to conversion .................
+800 $12,900 $5,000 75% 20% 9,500 8,400 $172,000 $240,200
+1,900 90% 30%
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+121.
+122.
+What are the equivalent units for conversion costs for the month in the first processing department?
+A) 8,400
+B) 8,970
+C) 570 D) 10,300
+Answer: B
+Level: Medium
+LO: 2
+The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $17.01
+B) $17.95
+C) $16.70 D) $18.29
+Answer: D
+Level: Medium
+LO: 4
+
+Chapter 4 Systems Design: Process Costing
+Use the following to answer questions 123-124:
+Joos Corporation uses the weighted-average method in its process costing system. Data concerning the first processing department for the most recent month are listed below:
+Beginning work in process inventory:
+Units in beginning work in process inventory .......................... Materials costs........................................................................... Conversion costs ....................................................................... Percentage complete with respect to materials ......................... Percentage complete with respect to conversion ......................
+Units started into production during the month ........................... Units transferred to the next department during the month ......... Materials costs added during the month....................................... Conversion costs added during the month ................................... Ending work in process inventory:
+Units in ending work in process inventory ............................... Percentage complete with respect to materials ......................... Percentage complete with respect to conversion ......................
+600 $7,300 $2,300 50% 10% 9,400 8,600 $196,300 $315,800
+1,400 70% 40%
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+123. The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $19.63 B) $21.25 C) $20.36 D) $20.49
+Answer: B Level: Medium
+LO: 2,4
+124. The cost per equivalent unit for conversion costs for the first department for the month is closest to:
+A) $31.81 B) $34.73 C) $34.48 D) $36.47
+Answer: B
+Level: Medium
+LO: 2,4
+Garrison, Managerial Accounting, 12th Edition 175
+
+Chapter 4 Systems Design: Process Costing
+Use the following to answer questions 125-128:
+Harward Company's Staining department recorded the following activity in June:
+Work in process inventory, June 1............ Started into production during June .......... Work in process inventory, June 30..........
+8,000 50,000 12,000
+55%
+All materials are added at the beginning of the process in the Staining Department.
+125. The equivalent units for labor and overhead for June, using the FIFO method, were:
+A) 46,000 units
+B) 49,800 units
+C) 43,200 units
+D) 52,600 units
+Answer: B Level: Medium LO: 6 Appendix: 4
+126. The equivalent units for labor and overhead for June, using the weighted-average method, were:
+A) 52,600 units
+B) 62,000 units
+C) 50,000 units
+D) 46,000 units
+Answer: A Level: Medium
+127. The equivalent units for materials for June, using the FIFO method, were:
+176
+Garrison, Managerial Accounting, 12th Edition
+A) 46,000
+B) 42,000
+C) 58,000
+D) 50,000
+Answer: D
+units units units units
+Level: Medium
+LO: 6
+Appendix: 4
+LO: 2
+Appendix: 4
+Number of Units
+Labor and Overhead Percent Completed 35%
+
+Chapter 4 Systems Design: Process Costing
+128. The equivalent units for materials for June, using the weighted-average method, were:
+A) 58,000 units
+B) 52,600 units
+C) 46,000 units
+D) 60,000 units
+Answer: A Level: Medium LO: 2 Appendix: 4
+Use the following to answer questions 129-132:
+Activity in Saggers Company's Assembly Department for the month of March follows:
+ Work in process inventory, March 1............... Started into production during March ............. Work in process inventory, March 31.............
+Percent Complete Labor &
+Units Materials Overhead
+6,000 60% 45% 65,000
+4,000 35% 20%
+129. The equivalent units for labor and overhead for March, using the weighted-average method, are:
+A) 69,600 units
+B) 67,800 units
+C) 71,000 units
+D) 69,000 units
+Answer: B Level: Medium
+LO: 2
+Appendix: 4
+130. The equivalent units for materials for March, using the weighted-average method, are:
+A) 69,000 units
+B) 65,000 units
+C) 68,400 units
+D) 67,000 units
+Answer: C Level: Medium LO: 2 Appendix: 4
+131. The equivalent units for labor and overhead for March, using the FIFO method, are:
+A) 63,100 units
+B) 65,000 units
+C) 62,500 units
+D) 65,100 units
+Answer: D Level: Medium LO: 6
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+177
+
+Chapter 4 Systems Design: Process Costing
+132. The equivalent units for materials for March, using the FIFO method, are:
+A) 64,800 units
+B) 59,800 units
+C) 66,000 units
+D) 67,200 units
+Answer: A Level: Medium LO: 6 Appendix: 4
+Use the following to answer questions 133-136:
+Levitt Company uses a process costing system. All direct materials are added at the beginning
+of the process. Levitt's production quantity schedule for November is
+Work-in-process on November 1 (conversion 60% complete)........ Units started during November ........................................................ Total units to account for .................................................................
+Units completed and transferred out from beginning inventory ...... Units started and completed during November ................................ Work-in-process on November 30 (conversion 20% complete)...... Total units accounted for..................................................................
+reproduced below.
+Units
+1,000 5,000 6,000
+1,000 3,000 2,000 6,000
+133.
+134.
+Using the FIFO method, the equivalent units for direct materials for November are: A) 5,000units
+B) 6,000units
+C) 4,400units
+D) 3,800units
+Answer: A Level: Medium LO: 6 Source: CMA, adapted Appendix: 4
+Using the FIFO method, the equivalent units for conversion costs for November are: A) 3,400units
+B) 3,800units
+C) 4,000units
+178
+Garrison, Managerial Accounting, 12th Edition
+D) 4,400units
+Answer: B Level: Medium
+LO: 6
+Source: CMA, adapted Appendix: 4
+
+Chapter 4 Systems Design: Process Costing
+135. Using the weighted-average method, the equivalent units for direct materials for November are:
+A) 3,400units B) 4,400units C) 5,000units D) 6,000units
+Answer: D Level: Medium LO: 2 Source: CMA, adapted Appendix: 4
+136. Using the weighted-average method, the equivalent units for conversion costs for November are:
+A) 3,400units B) 3,800units C) 4,000units D) 4,400units
+Answer: D Level: Medium LO: 2 Source: CMA, adapted Appendix: 4
+Use the following to answer questions 137-138:
+Qu Corporation uses the FIFO method in its process costing system. processing department for the most recent month are listed below:
+Data concerning the first
+Beginning work in process inventory:
+Units in beginning work in process inventory ..................... Materials costs...................................................................... Conversion costs .................................................................. Percentage complete with respect to materials .................... Percentage complete with respect to conversion .................
+Units started into production during the month ...................... Materials costs added during the month.................................. Conversion costs added during the month .............................. Ending work in process inventory:
+Units in ending work in process inventory .......................... Percentage complete with respect to materials .................... Percentage complete with respect to conversion .................
+900 $9,800 $9,200 55% 30% 8,400 $130,400 $220,600
+2,200 65% 25%
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+Garrison, Managerial Accounting, 12th Edition 179
+
+Chapter 4 Systems Design: Process Costing
+137. How many units were started AND completed during the month in the first processing department?
+A) 8,400 B) 7,100 C) 6,200 D) 9,300
+Answer: C
+Level: Medium
+LO: 7
+Appendix: 4
+138. The cost per equivalent unit for conversion costs for the first department for the month is closest to:
+A) $29.89 B) $34.07 C) $31.07 D) $31.38
+Answer: A
+Use the following to answer questions 139-145:
+Mullins Corporation uses the FIFO method in its process costing system. Data concerning the
+LO: 6,8
+first processing department for the most recent month are listed
+Beginning work in process inventory:
+Units in beginning work in process inventory ..................... Materials costs...................................................................... Conversion costs .................................................................. Percentage complete with respect to materials .................... Percentage complete with respect to conversion .................
+Units started into production during the month ...................... Units transferred to the next department during the month .... Materials costs added during the month.................................. Conversion costs added during the month .............................. Ending work in process inventory:
+Units in ending work in process inventory .......................... Percentage complete with respect to materials .................... Percentage complete with respect to conversion .................
+Level: Medium
+Appendix: 4
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+180 Garrison, Managerial Accounting, 12th Edition
+below:
+700 $11,500 $22,200 75% 65% 8,600 7,800 $159,300 $348,500
+1,500 65% 50%
+
+What are the equivalent units for materials for the month in the first processing department?
+A) 975 B) 8,250 C) 9,300 D) 7,100
+Answer: B
+Level: Medium
+LO: 6
+Appendix: 4
+140. What are the equivalent units for conversion costs for the month in the first processing department?
+A) 8,095 B) 7,100 C) 9,300 D) 750
+Answer: A
+Level: Medium LO: 6
+Appendix: 4
+141. The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $20.42 B) $21.90 C) $19.31 D) $17.13
+Answer: C Level: Medium LO: 8
+Appendix: 4
+142. The cost per equivalent unit for conversion costs for the first department for the month is closest to:
+A) $48.79 B) $45.20 C) $44.68 D) $43.05
+Answer: D
+Level: Medium LO: 8
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+181
+Chapter 4 Systems Design: Process Costing
+143. The cost per equivalent whole unit for the month in the first processing department is closest to:
+A) $62.36 B) $76.27 C) $66.10 D) $58.23
+Answer: A
+Level: Medium
+LO: 8
+Appendix: 4
+144. The total cost transferred from the first processing department to the next processing department during the month is closest to:
+A) $490,382
+B) $579,948
+C) $507,800 D) $541,500
+Answer: A Level: Medium LO: 9 Appendix: 4
+145. The cost of ending work in process inventory in the first processing department according to the company's cost system is closest to:
+A) $51,114
+B) $46,770
+182
+Garrison, Managerial Accounting, 12th Edition
+C) $93,540 D) $60,801
+Answer: A Level: Medium
+LO: 9
+Appendix: 4
+
+Chapter 4 Systems Design: Process Costing
+Use the following to answer questions 146-148:
+Puri Corporation uses the FIFO method in its process costing system. Data concerning the first processing department for the most recent month are listed below:
+Beginning work in process inventory:
+Units in beginning work in process inventory ....................... Materials costs........................................................................ Conversion costs .................................................................... Percentage complete with respect to materials ...................... Percentage complete with respect to conversion ...................
+Units started into production during the month ........................ Units transferred to the next department during the month ...... Materials costs added during the month.................................... Conversion costs added during the month ................................ Ending work in process inventory:
+Units in ending work in process inventory ............................ Percentage complete with respect to materials ...................... Percentage complete with respect to conversion ...................
+400 $4,800 $3,300 85% 45% 5,800 5,100 $69,500 $82,300
+1,100 55% 45%
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+146. What are the equivalent units for materials for the month in the first processing department?
+A) 605 B) 6,200 C) 4,700 D) 5,365
+Answer: D
+Level: Medium
+LO: 6
+Appendix: 4
+147. The cost per equivalent unit for conversion costs for the first department for the month is closest to:
+A) $15.20 B) $18.33 C) $15.96 D) $16.14
+Answer: A
+Level: Medium
+LO: 8
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+183
+
+Chapter 4 Systems Design: Process Costing
+148. The total cost transferred from the first processing department to the next processing department during the month is closest to:
+A) $159,900
+B) $151,800
+C) $174,549 D) $144,540
+Answer: D Level: Medium LO: 9 Appendix: 4 Use the following to answer questions 149-150:
+Normand Corporation uses the FIFO method in its process costing system. Data concerning the first processing department for the most recent month are listed below:
+Beginning work in process inventory:
+Units in beginning work in process inventory .......................... Materials costs........................................................................... Conversion costs ....................................................................... Percentage complete with respect to materials ......................... Percentage complete with respect to conversion ......................
+Units started into production during the month ........................... Units transferred to the next department during the month ......... Materials costs added during the month....................................... Conversion costs added during the month ................................... Ending work in process inventory:
+Units in ending work in process inventory ............................... Percentage complete with respect to materials ......................... Percentage complete with respect to conversion ......................
+700 $8,700 $3,700 70% 10% 6,400 5,600 $92,200 $269,600
+1,500 80% 25%
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+149.
+What are the equivalent units for materials for the month in the first processing department?
+A) 4,900
+B) 1,200
+184
+Garrison, Managerial Accounting, 12th Edition
+C) 6,310 D) 7,100
+Answer: C
+Level: Medium
+LO: 6
+Appendix: 4
+
+Chapter 4 Systems Design: Process Costing
+150. The cost per equivalent unit for conversion costs for the first department for the month is closest to:
+A) $45.66 B) $52.86 C) $47.94 D) $48.14
+Answer: A
+Use the following to answer questions 151-152:
+Ozdemir Corporation uses the FIFO method in its process costing system. Data concerning the first processing department for the most recent month are listed below:
+Beginning work in process inventory:
+Units in beginning work in process inventory .......................... 200 Materials costs........................................................................... $1,800 Conversion costs ....................................................................... $600 Percentage complete with respect to materials ......................... 55% Percentage complete with respect to conversion ...................... 10%
+Units started into production during the month ........................... 5,000 Units transferred to the next department during the month ......... 4,500 Materials costs added during the month....................................... $74,800 Conversion costs added during the month ................................... $128,800 Ending work in process inventory:
+Units in ending work in process inventory ............................... 700 Percentage complete with respect to materials ......................... 85% Percentage complete with respect to conversion ...................... 70%
+Note: Your answers may differ from those offered below due to rounding error. In all cases, select the answer that is the closest to the answer you computed. To reduce rounding error, carry out all computations to at least three decimal places.
+151. What are the equivalent units for conversion costs for the month in the first processing department?
+A) 490 B) 4,300 C) 4,970 D) 5,200
+Answer: C
+Level: Medium
+LO: 6
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+185
+Level: Medium
+LO: 8
+Appendix: 4
+
+Chapter 4 Systems Design: Process Costing
+152. The cost per equivalent unit for materials for the month in the first processing department is closest to:
+A) $16.36 B) $14.38 C) $16.62 D) $15.01
+Answer: D Level: Medium LO: 8 Appendix: 4 Use the following to answer questions 153-154:
+The information below was obtained from the records of Bapst Company for the month of May. The company uses the FIFO method in its process costing system.
+Work in process inventory, May 1............ Started into production.............................. Work in process inventory, May 31..........
+3,000 20,000 4,000
+40% All materials are added at the beginning of the manufacturing process.
+153.
+154.
+The equivalent units for material for the month are:
+A) 21,600 units
+B) 22,500 units
+C) 16,000 units
+D) 20,000 units
+Answer: D Level: Medium LO: 6 Appendix: 4
+The equivalent units for labor and overhead for the month are:
+186
+Garrison, Managerial Accounting, 12th Edition
+A) 17,600
+B) 18,500
+C) 19,700
+D) 21,600
+Answer: C
+units units units units
+Level: Medium
+LO: 6
+Appendix: 4
+Units
+Labor and Overhead Percent Complete 30%
+
+Chapter 4 Systems Design: Process Costing
+Use the following to answer questions 155-157:
+Marlan Manufacturing produces a product that passes through two processing departments. The units from the Molding Department are completed in the Assembly Department. The activity in the Assembly Department for the current month is presented below. Marlan uses the FIFO method in its process costing system.
+Units in beginning work in process inventory (materials 0% complete; conversion 25% complete)........................................
+Units transferred in from the Molding Department during the month ......................................................................................... Units completed and transferred to finished goods.......................
+Units in ending work in process inventory (materials 0% complete; conversion 40% complete)........................................
+8,000
+42,000 38,000
+12,000
+155. The equivalent units (with respect to the Molding Department's costs) transferred from the Molding Department to the Assembly during the month were:
+A) 30,000 units
+B) 38,000 units
+C) 40,800 units
+D) 42,000 units
+Answer: D Level: Medium LO: 6 Source: CMA, adapted Appendix: 4
+156. The equivalent units for materials for the Assembly Department during the month were:
+A) 30,000 units
+B) 38,000 units
+C) 40,800 units
+D) 42,000 units
+Answer: B Level: Medium
+LO: 6
+Source: CMA, adapted
+Appendix: 4
+157. The equivalent units for conversion costs for the Assembly Department during the month were:
+A) 36,800 units
+B) 38,000 units
+C) 40,800 units
+D) 42,800 units
+Answer: C Level: Medium
+LO: 6
+Source: CMA, adapted
+Appendix: 4
+Garrison, Managerial Accounting, 12th Edition
+187
+
+Chapter 4 Systems Design: Process Costing Essay Questions
+158.
+Anchor Inc. uses the weighted-average method in its process costing system. The following data concern the operations of the company's first processing department for a recent month.
+Work in process, beginning:
+Units in process ........................................................... 800 Stage of completion with respect to materials ............ 60% Stage of completion with respect to conversion.......... 10% Costs in the beginning inventory:
+Materials cost ........................................................... $1,296 Conversion cost........................................................ $2,416
+Units started into production during the month.............. 16,000 Units completed and transferred out .............................. 16,500
+Costs added to production during the month:
+Materials cost .............................................................. $47,076 Conversion cost ........................................................... $497,213
+Work in process, ending:
+Units in process ........................................................... 300 Stage of completion with respect to materials ............ 60% Stage of completion with respect to conversion.......... 70%
+Required:
+Prepare a production report for the department using the weighted-average method. Level: Hard LO: 2,3,4,5
+188
+Garrison, Managerial Accounting, 12th Edition
+
+Chapter 4 Systems Design: Process Costing
+Answer:
+Weighted Average method:
+Quantity schedule and equivalent units
+Units to be accounted for:
+Work in process, beginning............. Started into production ....................
+Total units accounted for ....................
+Units accounted for as follows: Transferred to next department ....... Work in process, ending..................
+Total units...........................................
+Costs per equivalent unit
+Cost to be accounted for:
+Work in process, beginning............. Cost added during the month ..........
+Total cost (a).......................................
+Equivalent units (above) (b) ............... Cost per EU, (a) ÷ (b) ......................... Cost per whole unit
+Cost reconciliation
+Cost accounted for as follows: Transferredout................................ Work in process, ending:
+Materials.......................................
+Conversion ................................... Total work in process, ending ......... Total cost ............................................
+Quantity Schedule
+800 16,000 16,800
+16,500 300 16,800
+Total Cost
+$ 3,712 544,289 $548,001
+$32.800
+Total Cost
+$541,200
+522 6,279 6,801 $548,001
+Equivalent Units Materials Conversion
+    16,500 180 16,680
+Materials
+$ 1,296 47,076 $48,372
+16,680 $2.900
+16,500 210 16,710
+Conversion
+$ 2,416 497,213 $499,629
+16,710 $29.900
+               Equivalent Units Materials Conversion
+16,500 16,500
+180
+210
+      Garrison, Managerial Accounting, 12th Edition
+189
+
+Chapter 4 Systems Design: Process Costing
+159.
+Ayres Inc. uses the weighted-average method in its process costing system. The following data concern the operations of the company's first processing department for a recent month.
+Work in process, beginning:
+Units in process ........................................................... 300 Stage of completion with respect to materials ............ 60% Stage of completion with respect to conversion.......... 60% Costs in the beginning inventory:
+Materials cost ........................................................... $1,314 Conversion cost........................................................ $6,102
+Units started into production during the month.............. 22,000 Units completed and transferred out .............................. 21,800
+Costs added to production during the month:
+Materials cost .............................................................. $164,436 Conversion cost ........................................................... $728,058
+Work in process, ending:
+Units in process ........................................................... 500 Stage of completion with respect to materials ............ 60% Stage of completion with respect to conversion.......... 10%
+Required:
+Prepare a production report for the department using the weighted-average method. Level: Hard LO: 2,3,4,5
+//190//
+Garrison, Managerial Accounting, 12th Edition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C
+B
+C
+D
+C
+D
+D
+C
+D
+D
+D
+D
+C
+D
+A
+B
+B
+C
+A
+a
+C
+D
+C
+D
+A
+C
+D
+A
+A
+B
+A
+D
+D
+C
+A
+D
+A
+D
+b
+D
+D
+B
+D
+b
+C
+A
+C
+D
+B
+A
+C
+A
+C
+C
+D
+B
+D
+C
+C
+A
+C
+D
+D
+C
+b
+C
+b
+D
+C
+B
+B
+A
+A
+B
+b
+B
+A
+D
+B
+C
+A
+A
+C
+b
+A
+B
+A
+A
+B
+D
+B
+C
+B
+C
+A
+A
+C
+C
+B
+C
+D
+D
+C
+C
+C
+B
+D
+B
+B
+B
+A
+D
+A
+B
+C
+D
+A
+A
+B
+D
+D
+C
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

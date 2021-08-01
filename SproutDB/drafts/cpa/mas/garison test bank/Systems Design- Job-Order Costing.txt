@@ -1,0 +1,947 @@
+Which of the following industries would be most likely to use a process costing system?
+A) Shipbuilder
+B) Movie studio
+C) Oilrefinery
+D) Hospital
+
+17. A process cost system is employed in those situations where:
+A) many different products, jobs, or batches of production are being produced each
+period.
+B) wheremanufacturinginvolvesasingle,homogeneousproductthatflowsevenly
+through the production process on a continuous basis.
+C) aserviceisperformedsuchasinalawfirmoranaccountingfirm.
+D) fullorabsorptioncostapproachisnotemployed.
+
+18. Emco Company uses direct labor cost as a basis for computing its predetermined overhead rate. In computing the predetermined overhead rate for last year, the company misclassified a portion of direct labor cost as indirect labor. The effect of this misclassification will be to:
+A) understatethepredeterminedoverheadrate.
+B) overstatethepredeterminedoverheadrate.
+C) havenoeffectonthepredeterminedoverheadrate. D) cannotbedeterminedfromtheinformationgiven.
+
+
+Which of the following entries would record correctly the application of overhead cost?
+20.
+The operations of Kalispell Company resulted in overapplied overhead for the month just completed. Which of the following journal entries can be correct if Kalispell allocates under- or overapplied overhead among accounts?
+A) Work in Process .................................. Accounts Payable ......................
+B) Manufacturing Overhead .................... Accounts Payable ......................
+C) Manufacturing Overhead .................... Work in Process.........................
+D) Work in Process .................................. Manufacturing Overhead...........
+Answer: D Level: Easy LO: 4,5
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+A) Cost of Goods Sold ................................. Manufacturing Overhead ...............
+B) Manufacturing Overhead ........................ Cost of Goods Sold........................
+C) Work in Process ...................................... Finished Goods ....................................... Cost of Goods Sold........................ Manufacturing Overhead ...............
+D) Manufacturing Overhead ........................ Work in Process............................. Finished Goods .............................. Cost of Goods Sold........................
+XXX
+XXX
+XXX
+XXX
+XXX XXX
+XXX
+XXX XXX
+XXX XXX XXX
+
+
+Which of the following entries would record correctly the monthly salaries earned by the top management of a manufacturing company?
+A) Manufacturing Overhead ........................... Salaries and Wages Payable .............
+B) Salaries Expense ........................................ Salaries and Wages Payable .............
+C) Work in Process ......................................... Salaries and Wages Payable .............
+D) Salaries and Wages Payable....................... Salaries Expense ...............................
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+Answer: B Level: Easy LO: 4
+22. The journal entry to record applying overhead during the production process is:
+A) Manufacturing Overhead .................................... Work In Process.........................................
+B) Finished Goods ................................................... Manufacturing Overhead ...........................
+C) Manufacturing Overhead .................................... Finished Goods ..........................................
+D) Work In Process .................................................. Manufacturing Overhead ...........................
+Answer: D Level: Easy LO: 4
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+23. When manufacturing overhead is applied to production, it is added to: A) theCostofGoodsSoldaccount.
+B) theRawMaterialsaccount.
+C) theWorkinProcessaccount.
+D) the Finished Goods inventory account.
+
+
+Which of the following statements is true?
+25.
+Answer: D Level: Easy LO: 5
+On the Schedule of Cost of Goods Manufactured, the final Cost of Goods Manufactured figure represents:
+A) theamountofcostchargedtoWorkinProcessduringtheperiod.
+B) the amount of cost transferred from Finished Goods to Cost of Goods Sold during
+the period.
+C) theamountofcostplacedintoproductionduringtheperiod.
+D) theamountofcostofgoodscompletedduringthecurrentyearwhethertheywere
+started before or during the current year.
+Answer: D Level: Hard LO: 6
+Under a job-order costing system, the dollar amount transferred from Work in Process to Finished Goods is the sum of the costs charged to all jobs:
+A) startedinprocessduringtheperiod.
+B) inprocessduringtheperiod.
+C) completedandsoldduringtheperiod. D) completedduringtheperiod.
+Answer: D Level: Medium LO: 7
+26.
+I. II.
+III.
+A) B) C) D)
+Overhead application may be made slowly as a job is worked on. Overheadapplicationmaybemadeinasingleapplicationatthetimeof completion of the job.
+Overhead application should be made to any job not completed at year-end in order to properly value the work in process inventory.
+OnlystatementIistrue. OnlystatementIIistrue. BothstatementsIandIIaretrue. StatementsI,II,andIIIarealltrue.
+
+
+If a company applies overhead to production on the basis of a predetermined rate, a debit balance in the Manufacturing Overhead account at the end of the period means that:
+A) actualoverheadcostwasgreaterthantheamountchargedtoproduction.
+B) actualoverheadcostwaslessthantheamountofdirectlaborcost.
+C) moreoverheadcosthasbeenchargedtoproductionthanhasbeenchargedto
+finished goods during the period.
+D) actualoverheadcostwaslessthantheamountchargedtoproduction.
+Answer: A Level: Medium LO: 8
+28. Overapplied overhead means that:
+A) theappliedoverheadcostwaslessthantheactualoverheadcost.
+B) theappliedoverheadcostwasgreaterthantheactualoverheadcost.
+C) theestimatedoverheadcostwaslessthantheactualoverheadcost.
+D) the estimated overhead cost was less than the applied overhead cost.
+Answer: B Level: Easy LO: 8
+29. A job order cost system uses a predetermined overhead rate based on estimated activity and estimated manufacturing overhead cost. At the end of the year, underapplied overhead might be explained by which of the following situations?
+A) B) C) D)
+Greater than estimated Less than estimated Greater than estimated Less than estimated
+Source: CPA, adapted
+Actual activity
+Greater than estimated Greater than estimated Less than estimated Less than estimated
+Actual manufacturing overhead costs
+Answer: C Level: Medium
+LO: 8
+30. Departmental overhead rates are generally preferred to plant-wide overhead rates when:
+A) theactivitiesofthevariousdepartmentsintheplantarenothomogeneous.
+B) the activities of the various departments in the plant are homogeneous.
+C) mostoftheoverheadcostsarefixed.
+D) alldepartmentsintheplantareheavilyautomated.
+
+
+
+The Work in Process inventory account of a manufacturing company shows a balance of $18,000 at the end of an accounting period. The job cost sheets of the two uncompleted jobs show charges of $6,000 and $3,000 for materials, and charges of $4,000 and $2,000 for direct labor. From this information, it appears that the company is using a predetermined overhead rate, as a percentage of direct labor costs, of:
+A) 50% B) 200% C) 300% D) 20%
+Answer: A Level: Medium LO: 2,3,5
+Blackwood Co. uses a predetermined overhead rate based on direct labor cost to apply manufacturing overhead to jobs. The predetermined overhead rates for the year are 200% for Department A and 50% for Department B. Job 123, started and completed during the year, was charged with the following costs:
+32.
+Dept. A
+Directmaterials............................. $25,000 Direct labor.................................... ? Manufacturingoverhead................ $40,000
+Dept. B
+$5,000 $30,000
+?
+The total manufacturing costs associated with Job 123 should be:
+A) $135,000
+B) $180,000
+C) $195,000
+D) $240,000
+Source: CPA, adapted
+Answer: A Level: Medium
+
+
+Fisher Company uses a predetermined overhead rate based on direct labor cost to apply manufacturing overhead to jobs. The following information about Fisher Company's Work in Process inventory account has been provided for the month of May:
+May 1 balance ........................................... $26,000 Debits during May:
+Direct Materials...................................... $40,000 Direct Labor ........................................... $50,000 Manufacturing Overhead........................ $37,500
+During the month, Fisher Company's Work in Process inventory account was credited for $120,500, which represented the Cost of Goods Manufactured for the month. Only one job remained in process on May 31; this job had been charged with $9,600 of applied overhead cost. The amount of direct materials cost in the unfinished job would be:
+A) $10,600 B) $16,700 C) $12,800 D) $23,400
+Answer: A
+Level: Hard
+LO: 3,5,6,7
+34. At the beginning of the year, manufacturing overhead for the year was estimated to be $477,590. At the end of the year, actual direct labor-hours for the year were 29,000 hours, the actual manufacturing overhead for the year was $472,590, and manufacturing overhead for the year was overapplied by $110. If the predetermined overhead rate is based on direct labor-hours, then the estimated direct labor-hours at the beginning of the year used in the predetermined overhead rate must have been:
+A) 29,300directlabor-hours B) 28,987directlabor-hours C) 28,993directlabor-hours D) 29,000directlabor-hours
+
+
+At the beginning of the year, manufacturing overhead for the year was estimated to be $670,700. At the end of the year, actual direct labor-hours for the year were 36,200 hours, the actual manufacturing overhead for the year was $665,700, and manufacturing overhead for the year was overapplied by $22,100. If the predetermined overhead rate is based on direct labor-hours, then the estimated direct labor-hours at the beginning of the year used in the predetermined overhead rate must have been:
+A) 35,037directlabor-hours B) 35,300directlabor-hours C) 36,200directlabor-hours D) 33,874directlabor-hours
+Answer: B Level: Hard LO: 3,5,8
+At the beginning of the year, manufacturing overhead for the year was estimated to be $670,530. At the end of the year, actual direct labor-hours for the year were 29,400 hours, the actual manufacturing overhead for the year was $665,530, and manufacturing overhead for the year was underapplied by $27,550. If the predetermined overhead rate is based on direct labor-hours, then the estimated direct labor-hours at the beginning of the year used in the predetermined overhead rate must have been:
+A) 30,900directlabor-hours B) 29,400directlabor-hours C) 30,670directlabor-hours D) 31,939directlabor-hours
+Answer: A Level: Hard LO: 3,5,8
+Bradbeer Corporation uses direct labor-hours in its predetermined overhead rate. At the beginning of the year, the estimated direct labor-hours were 17,500 hours. At the end of the year, actual direct labor-hours for the year were 16,000 hours, the actual manufacturing overhead for the year was $233,000, and manufacturing overhead for the year was underapplied by $15,400. The estimated manufacturing overhead at the beginning of the year used in the predetermined overhead rate must have been:
+36.
+37.
+A) $249,375 B) $217,600 C) $228,000 D) $238,000
+Answer: D Level: Hard
+
+
+
+Braam Corporation uses direct labor-hours in its predetermined overhead rate. At the beginning of the year, the estimated direct labor-hours were 11,500 hours. At the end of the year, actual direct labor-hours for the year were 9,700 hours, the actual manufacturing overhead for the year was $143,350, and manufacturing overhead for the year was underapplied by $18,220. The estimated manufacturing overhead at the beginning of the year used in the predetermined overhead rate must have been:
+A) $164,023 B) $125,130 C) $148,350 D) $138,350
+Answer: C Level: Hard LO: 3,5,8
+39. Braaten Corporation uses direct labor-hours in its predetermined overhead rate. At the beginning of the year, the estimated direct labor-hours were 14,100 hours. At the end of the year, actual direct labor-hours for the year were 13,500 hours, the actual manufacturing overhead for the year was $291,100, and manufacturing overhead for the year was underapplied by $7,600. The estimated manufacturing overhead at the beginning of the year used in the predetermined overhead rate must have been:
+A) $286,100 B) $296,100 C) $298,816 D) $283,500
+Answer: B Level: Hard LO: 3,5,8
+40. Cribb Corporation uses direct labor-hours in its predetermined overhead rate. At the beginning of the year, the estimated direct labor-hours were 17,900 hours and the total estimated manufacturing overhead was $341,890. At the end of the year, actual direct labor-hours for the year were 16,700 hours and the actual manufacturing overhead for the year was $336,890. Overhead at the end of the year was:
+A) $22,920underapplied B) $17,920overapplied C) $17,920underapplied D) $22,920overapplied
+Answer: C Level: Medium LO: 3,5,8
+
+
+Crich Corporation uses direct labor-hours in its predetermined overhead rate. At the beginning of the year, the estimated direct labor-hours were 21,800 hours and the total estimated manufacturing overhead was $497,040. At the end of the year, actual direct labor-hours for the year were 21,500 hours and the actual manufacturing overhead for the year was $492,040. Overhead at the end of the year was:
+A) $6,840overapplied B) $6,840underapplied C) $1,840underapplied D) $1,840overapplied
+Answer: C Level: Medium LO: 3,5,8
+Crick Corporation uses direct labor-hours in its predetermined overhead rate. At the beginning of the year, the estimated direct labor-hours were 14,400 hours and the total estimated manufacturing overhead was $355,680. At the end of the year, actual direct labor-hours for the year were 15,200 hours and the actual manufacturing overhead for the year was $350,680. Overhead at the end of the year was:
+A) $24,760underapplied B) $24,760overapplied C) $19,760underapplied D) $19,760overapplied
+Answer: B Level: Medium LO: 3,5,8
+Dagger Corporation uses direct labor-hours in its predetermined overhead rate. At the beginning of the year, the total estimated manufacturing overhead was $423,870. At the end of the year, actual direct labor-hours for the year were 19,400 hours, manufacturing overhead for the year was underapplied by $5,650, and the actual manufacturing overhead was $418,870. The predetermined overhead rate for the year must have been closest to:
+42.
+43.
+A) $21.59 B) $20.76 C) $21.30 D) $21.85
+Answer: C
+Level: Hard
+
+
+Daget Corporation uses direct labor-hours in its predetermined overhead rate. At the beginning of the year, the total estimated manufacturing overhead was $364,140. At the end of the year, actual direct labor-hours for the year were 24,000 hours, manufacturing overhead for the year was overapplied by $8,060, and the actual manufacturing overhead was $359,140. The predetermined overhead rate for the year must have been closest to:
+A) $15.43 B) $15.30 C) $15.17 D) $14.96
+Answer: B Level: Hard LO: 3,5,8
+45. Dafoe Corporation uses direct labor-hours in its predetermined overhead rate. At the beginning of the year, the total estimated manufacturing overhead was $221,100. At the end of the year, actual direct labor-hours for the year were 14,400 hours, manufacturing overhead for the year was overapplied by $21,500, and the actual manufacturing overhead was $216,100. The predetermined overhead rate for the year must have been closest to:
+A) $15.01 B) $17.73 C) $15.35 D) $16.50
+Answer: D Level: Hard LO: 3,5,8
+46. Juanita Corporation uses a job-order cost system and applies overhead on the basis of direct labor cost. At the end of October, Juanita had one job still in process. The job cost sheet for this job contained the following information:
+Direct materials ........................................... $480 Direct labor.................................................. $150 Manufacturing overhead applied................. $600
+An additional $100 of labor was needed in November to complete this job. For this job, how much should Juanita have transferred to finished goods inventory in November when it was completed?
+A) $1,330
+B) $500 C) $1,230 D) $1,730
+Answer: D Level: Medium LO: 3,5
+Garrison, Managerial Accounting, 12th Edition 83
+Chapter 3 Systems Design: Job-Order Costing
+84
+Garrison, Managerial Accounting, 12th Edition
+47.
+Wall Company uses a predetermined overhead rate based on direct labor hours to apply manufacturing overhead to jobs. The company's estimated costs for the next year are:
+48.
+It is estimated that 10,000 direct labor hours will be worked during the year. The predetermined overhead rate will be:
+A) $3.90
+B) $5.90
+C) $6.80 D) $9.10
+Answer: A Level: Medium LO: 3
+The following information relates to Spock Manufacturing Company:
+Direct materials ..................................................... Direct labor ............................................................ Depreciation on factory equipment ....................... Rentonfactory...................................................... Salessalaries.......................................................... Factory utilities ...................................................... Indirect labor .........................................................
+$3,000 $20,000 $6,000 $12,000 $29,000 $15,000 $6,000
+Total estimated manufacturing overhead at beginning of year .. Total manufacturing overhead applied to production during
+the year.................................................................................... Total manufacturing overhead incurred during the year ............
+$620,000
+$625,000 $618,000
+The company closes out the balance in the Manufacturing Overhead to Cost of Goods Sold at the end of the year. In the journal entry to close out the balance, the company would:
+A) debitcostofgoodssoldfor$2,000
+B) credit cost of goods sold for $2,000
+C) credit cost of goods sold for $7,000
+D) debitcostofgoodssoldfor$7,000
+Answer: C Level: Hard LO: 4,5,8
+
+
+Rio Manufacturing Company uses a job order cost system. At the beginning of February, Rio only had one job in process, Job #594. The direct costs assigned to this job at that time were $800 of materials and $650 of labor. Job #594 was finished during February incurring additional direct costs of $120 for materials and $370 for labor. Job #595 was started and finished during February. The direct costs assigned to this job were $310 for materials and $190 for labor. Job #596 was started during February but was not finished by the end of the month. The direct costs assigned to this job were $740 for materials and $300 for labor. Rio applies manufacturing overhead to its products at a rate of 200% of direct labor cost. What is Rio's cost of goods manufactured for February?
+A) $2,440
+B) $3,750
+C) $4,860
+D) $6,500
+Answer: C Level: Hard LO: 5,6
+50. Serenje Manufacturing Company produces nameplates and uses a job-order cost system. The following amounts relate to nameplate production for the month of June:
+Work in process inventory, June 1 ...................................................... Cost of materials directly assigned to production during June ........... Cost of labor directly assigned to production during June.................. Cost of nameplates completed during June.........................................
+$620 $1,800 $1,200 $4,300
+Serenje applies overhead at a predetermined overhead rate of 60% of direct material cost. At the end of June, only one job was in Work in Process inventory. This job had been charged with $150 of direct material cost. What is the direct labor cost assigned to this job?
+A) $100 B) $160 C) $225 D) $530
+Answer: B
+Level: Hard
+LO: 5,7
+Garrison, Managerial Accounting, 12th Edition 85
+Chapter 3 Systems Design: Job-Order Costing
+86
+Garrison, Managerial Accounting, 12th Edition
+51.
+Dukes Company used a predetermined overhead rate this year of $2 per direct labor hour, based on an estimate of 20,000 direct labor hours to be worked during the year. Actual costs and activity during the year were:
+52.
+Sargent Company applies overhead cost to jobs on the basis of 80 percent of direct labor cost. If Job 210 shows $10,000 of manufacturing overhead cost applied, how much was the direct labor cost on the job?
+A) $12,500
+B) $11,000 C) $8,000 D) $10,000
+Answer: A Level: Medium LO: 5
+In the Vasquez Company, any over- or underapplied overhead is closed out to Cost of Goods Sold. Last year, the company incurred $27,000 in actual manufacturing overhead cost, and applied $29,000 of overhead cost to jobs. The beginning and ending balances of Finished Goods were equal, and the Company's Cost of Goods Manufactured for the year totaled $71,000. Given this information, Cost of Goods Sold, after adjustment for any over- or underapplied overhead, for the year must have been:
+53.
+Actual manufacturing overhead cost incurred................. Actual direct labor hours worked ....................................
+The under- or overapplied overhead for the year was: A) $1,000underapplied
+B) $1,000overapplied
+C) $3,000underapplied
+D) $3,000overapplied
+Answer: A Level: Easy LO: 5,8
+$38,000 18,500
+A) $98,000 B) $73,000 C) $71,000 D) $69,000
+Answer: D
+Level: Hard
+LO: 6,8
+
+
+In reviewing the accounting records at year-end, Garff Company's accountant has determined that the following items and amounts were debited to the Manufacturing Overhead account during the year:
+Factory supervisor’s salary............................................. Sales commissions.......................................................... Vacation pay for the materials storeroom clerk .............
+$8,000 $7,000 $2,000
+Including the items listed above, the debits to the Manufacturing Overhead account totaled $245,000 for the year. Credits to the account totaled $240,000 for the year. Based on this information, if all entries had been made correctly during the year the Manufacturing Overhead account would have been:
+A) overappliedby$4,000 B) overappliedby$12,000 C) underapplied by $5,000 D) overappliedby$2,000
+Answer: D Level: Hard LO: 7,8
+55. Compute the October cost of direct materials used if raw material purchases for the month were $30,000 and the inventories were as follows:
+Direct materials ............................. Work in Process............................. Finished goods...............................
+$7,000
+$6,000 $10,000
+$4,000
+$7,500 $12,000
+The cost of direct materials used would be: A) $31,500
+B) $29,500
+C) $27,000
+D) $33,000
+Answer: D Level: Easy LO: 7
+
+
+
+Hardin Company's manufacturing overhead account showed a $20,000 underapplied overhead balance on December 31. Other data as of December 31 appear below:
+Cost of Goods Sold.................................................................... $800,000 Overhead applied during the year included in Cost of Goods
+Sold ........................................................................................ $200,000 Overhead applied during the year in the ending balances of:
+Work in Process inventory ..................................................... $80,000 Finished Goods inventory ...................................................... $120,000
+If the company allocates the underapplied overhead among Cost of Goods Sold and the appropriate inventory accounts based on the amount of overhead applied during the year in the accounts, Cost of Goods Sold after allocation will be:
+A) $790,000
+B) $820,000 C) $810,000 D) $780,000
+Answer: C Level: Medium LO: 8
+Use the following to answer questions 57-60:
+The accounting records of Omar Company contained the following information for last year:
+*
+Direct materials inventory ......................... Work in process inventory ........................ Finished goods inventory ..........................
+Manufacturing costs incurred
+Direct materials used ................................. Overhead applied ...................................... Direct labor cost (10,000 hours)................ Depreciation .............................................. Rent ........................................................... Taxes ......................................................... Cost of goods sold.....................................
+Selling and administrative costs incurred
+Advertising ................................................ Rent ........................................................... Clerical ......................................................
+$9,000 $17,000 $10,000
+$72,000 $24,000 $80,000 $10,000 $12,000
+$8,000 $157,000*
+$35,000 $20,000 $25,000
+$7,000 $31,000 $15,000
+*Does not include over- or underapplied overhead.
+Beginning Ending
+
+
+The amount of direct material purchased during the year was: A) $66,000
+B) $70,000 C) $65,000 D) $74,000
+Answer: B Level: Medium LO: 6
+58. The total costs added to Work in Process during the year were: A) $206,000
+B) $162,000 C) $176,000 D) $182,000
+Answer: C Level: Medium LO: 6
+59. If Omar Company applies overhead to jobs on the basis of direct labor hours and Job 3 took 120 hours, how much overhead should be applied to that job?
+A) $960
+B) $360
+C) $528 D) $288
+Answer: D Level: Medium LO: 3,5
+60. The cost of goods manufactured for the year was: A) $190,000
+B) $162,000 C) $168,000 D) $135,000
+Answer: B Level: Medium LO: 6
+Use the following to answer questions 61-64:
+At the beginning of the current year, Garber Corporation estimated that its manufacturing overhead would be $70,000 and the activity level would be 10,000 machine-hours. The level of activity at capacity is 14,000 machine-hours. The actual manufacturing overhead for the year was $63,300 and the actual level of activity was 10,100 machine-hours.
+Garrison, Managerial Accounting, 12th Edition 89
+Chapter 3 Systems Design: Job-Order Costing
+90
+Garrison, Managerial Accounting, 12th Edition
+61.
+62.
+63.
+64.
+If the company bases its predetermined overhead rate on estimated machine-hours, then its predetermined overhead rate would have been:
+A) $6.27
+B) $7.00
+C) $5.00 D) $6.33
+Answer: B Level: Medium LO: 3 Appendix: 3A
+If the company bases its predetermined overhead rate on estimated machine-hours, then its overhead for the year would have been:
+A) $12,800overapplied
+B) $12,800underapplied
+C) $7,400overapplied D) $7,400underapplied
+Answer: C Level: Medium LO: 8 Appendix: 3A
+If the company bases its predetermined overhead rate on machine-hours at capacity, then its predetermined overhead rate would have been:
+A) $6.33
+B) $6.27
+C) $5.00 D) $7.00
+Answer: C Level: Medium LO: 3,9 Appendix: 3A
+If the company bases its predetermined overhead rate on machine-hours at capacity, then the cost of unused capacity reported on the income statement would have been: A) $700
+B) $7,400
+C) $6,700 D) $12,800
+Answer: D
+Level: Medium
+LO: 5,9
+Appendix: 3A
+
+Chapter 3 Systems Design: Job-Order Costing
+Use the following to answer questions 65-67:
+Acton Corporation, which applies manufacturing overhead on the basis of machine-hours, has provided the following data for its most recent year of operations.
+Estimated manufacturing overhead....................... $139,080 Estimated machine-hours ...................................... 3,800 Actual manufacturing overhead ............................ $137,000 Actual machine-hours ........................................... 3,780
+The estimates of the manufacturing overhead and of machine-hours were made at the beginning of the year for the purpose of computing the company's predetermined overhead rate for the year.
+65. The predetermined overhead rate is closest to: A) $36.60
+B) $36.41 C) $36.24 D) $36.05
+Answer: A Level: Easy LO: 3
+66. The applied manufacturing overhead for the year is closest to: A) $136,269
+B) $138,348 C) $136,987 D) $137,630
+Answer: B Level: Easy LO: 5
+67. The overhead for the year was: A) $732underapplied
+B) $1,348underapplied
+C) $732overapplied
+D) $1,348overapplied Answer: D Level: Easy LO: 8
+Garrison, Managerial Accounting, 12th Edition 91
+
+Chapter 3 Systems Design: Job-Order Costing
+Use the following to answer questions 68-70:
+Baker Corporation applies manufacturing overhead on the basis of direct labor-hours. At the beginning of the most recent year, the company based its predetermined overhead rate on total estimated overhead of $210,600 and 6,000 estimated direct labor-hours. Actual manufacturing overhead for the year amounted to $209,000 and actual direct labor-hours were 5,980.
+68. The predetermined overhead rate for the year was closest to: A) $34.95
+B) $34.83 C) $34.98 D) $35.10
+Answer: D Level: Easy LO: 3
+69. The applied manufacturing overhead for the year was closest to: A) $208,283
+B) $209,001 C) $209,898 D) $209,180
+Answer: C Level: Easy LO: 5
+70. The overhead for the year was: A) $702underapplied
+B) $898underapplied
+C) $702overapplied
+D) $898overapplied
+Answer: D Level: Easy LO: 8
+Use the following to answer questions 71-73:
+Caber Corporation applies manufacturing overhead on the basis of machine-hours. At the beginning of the most recent year, the company based its predetermined overhead rate on total estimated overhead of $60,600. Actual manufacturing overhead for the year amounted to $59,000 and actual machine-hours were 5,900. The company's predetermined overhead rate for the year was $10.10 per machine-hour.
+
+
+
+The predetermined overhead rate was based on how many estimated machine-hours? A) 5,783
+B) 6,000 C) 5,900 D) 5,842
+Answer: B Level: Medium LO: 3
+72. The applied manufacturing overhead for the year was closest to: A) $58,017
+B) $59,590 C) $60,600 D) $58,597
+Answer: B Level: Easy LO: 5
+73. The overhead for the year was: A) $1,010underapplied
+B) $590overapplied
+C) $590underapplied
+D) $1,010overapplied Answer: B Level: Easy LO: 8
+
+
+Use the following to answer questions 74-76:
+Dapper Company had only one job in process on May 1. The job had been charged with $3,400 of direct materials, $4,640 of direct labor, and $9,200 of manufacturing overhead cost. The company assigns overhead cost to jobs using the predetermined overhead rate of $23.00 per direct labor-hour.
+During May, the activity was recorded:
+Raw materials (all direct materials):
+Beginning balance ....................................................... Purchased during the month........................................ Used in production ......................................................
+Labor:
+Direct labor-hours worked during the month.............. Direct labor cost incurred............................................
+Actual manufacturing overhead costs incurred .............. Inventories:
+Raw materials, May 30 ............................................... Work in process, May 30 ............................................
+$8,500 $42,000 $48,500
+2,200 $25,520 $52,800
+? $32,190
+Work in process inventory on May 30 contains $7,540 of direct labor cost. Raw materials consist solely of items that are classified as direct materials.
+74. The balance in the raw materials inventory account on May 30 was: A) $33,500
+B) $2,000 C) $40,000 D) $6,500
+Answer: B Level: Medium LO: 6
+75. The cost of goods manufactured for May was: A) $109,670
+94
+Garrison, Managerial Accounting, 12th Edition
+B) $124,620 C) $143,300 D) $126,820
+Answer: A Level: Hard
+LO: 6
+Chapter 3 Systems Design: Job-Order Costing
+76. The entry to dispose of the under- or overapplied overhead cost for the month would include a:
+A) debitof$2,200toManufacturingOverhead B) debitof$14,950toManufacturingOverhead C) creditof$14,950toManufacturingOverhead D) creditof$2,200toManufacturingOverhead
+Answer: D Level: Hard LO: 5,8 Use the following to answer questions 77-80:
+The direct labor rate in Brent Company is $9.00 per hour, and manufacturing overhead is applied to products using a predetermined overhead rate of $6.00 per direct labor hour. During May, the company purchased $60,000 in raw materials (all direct materials) and worked 3,200 direct labor hours. The Raw Materials inventory (all direct materials) decreased by $3,000 between the beginning and end of May. The Work in Process inventory on May 1 consisted of one job which had been charged with $4,000 in direct materials and on which 300 hours of direct labor time had been worked. There was no Work in Process inventory on May 31.
+77. The balance in the Work in Process inventory account on May 1 was: A) $0
+B) $6,700 C) $4,500 D) $8,500
+Answer: D Level: Medium LO: 4
+78. The debit to Work in Process for the cost of direct materials used during May was: A) $63,000
+B) $61,000 C) $57,000 D) $67,000
+Answer: A Level: Medium LO: 4
+79. The debit to Work in Process for direct labor cost during May was: A) $21,000
+B) $26,100 C) $28,800 D) $31,500
+Answer: C Level: Medium LO: 4
+Garrison, Managerial Accounting, 12th Edition 95
+
+Chapter 3 Systems Design: Job-Order Costing
+80. If overhead was underapplied by $2,500 during May, the actual overhead cost for the month must have been:
+A) $16,700
+B) $21,700
+C) $18,500 D) $23,500
+Answer: B Level: Hard
+Use the following to answer questions 81-84:
+Chelm Music Company manufactures violins, violas, cellos, and fiddles and uses a job-order cost system.
+96
+Garrison, Managerial Accounting, 12th Edition
+81.
+What account should Chelm debit when the workers who carve the wood for the instruments are paid?
+A) DirectLabor
+B) WorkinProcess
+C) ManufacturingOverhead
+D) SalariesandWagesReceivable
+E) Salaries and Wages Expense
+Answer: B Level: Easy LO: 4
+What account should Chelm debit when the production manager is paid?
+A) DirectLabor
+B) WorkinProcess
+C) ManufacturingOverhead
+D) SalariesandWagesReceivable
+E) Salaries and Wages Expense
+Answer: C Level: Medium LO: 4
+What account should Chelm debit when the president of the company is paid?
+A) DirectLabor
+B) WorkinProcess
+C) ManufacturingOverhead
+D) SalariesandWagesReceivable
+E) Salaries and Wages Expense
+Answer: E Level: Easy LO: 4
+82.
+83.
+LO: 5,8
+
+Chapter 3 Systems Design: Job-Order Costing
+84. What is one of the accounts that Chelm should credit when goods are sold?
+A) FinishedGoods
+B) WorkinProcess
+C) CostofGoodsSold
+D) ManufacturingOverhead
+E) Cost of Goods Manufactured
+Answer: A Level: Easy LO: 4
+Use the following to answer questions 85-89:
+The following partially completed T-accounts summarize transactions for Western Company during the year:
+Raw Material 3,000 8,000 5,000
+7,000
+Finished Goods 9,000 20,000
+25,000
+Work in Process 6,000 25,000 6,500
+9,000
+7,000
+Wages & Salaries Payable 10,000 2,000 Beg Bal
+12,000
+Manufacturing Overhead 1,500 7,000
+2,000 750 3,000
+Cost of Goods Sold 20,000
+ Beg Bal
+Beg Bal
+Beg Bal
+     Garrison, Managerial Accounting, 12th Edition 97
+
+Chapter 3 Systems Design: Job-Order Costing
+98
+Garrison, Managerial Accounting, 12th Edition
+85.
+86.
+87.
+88.
+89.
+The Cost of Goods Manufactured is: A) $20,000
+B) $34,000
+C) $22,500
+D) $25,000
+Answer: D Level: Medium
+The direct labor cost was: A) $9,000
+B) $12,000
+C) $10,000
+LO: 6,7
+D) $14,000
+Answer: A Level: Hard LO: 7
+The direct materials cost was: A) $8,000
+B) $6,500
+C) $9,000
+D) $6,000
+Answer: B Level: Hard LO: 7
+The manufacturing overhead applied was: A) $9,000
+B) $3,000
+C) $500
+D) $7,000
+Answer: D Level: Hard LO: 5,7
+The manufacturing overhead was: A) $250overapplied
+B) $750underapplied
+C) $250underapplied
+D) $750overapplied Answer: C Level: Medium
+LO: 7,8
+
+
+
+Use the following to answer questions 90-91:
+Kapanga Manufacturing Company uses a job-order costing system and started the month of October with a zero balance in its work in process and finished goods inventory accounts. During October, Kapanga worked on three jobs and incurred the following direct costs on those jobs:
+Job B18
+Direct materials ............................. $12,000 Direct labor.................................... $8,000
+Job B19
+$25,000 $10,000
+Job C11
+$18,000 $5,000
+Kapanga applies manufacturing overhead at a rate of 150% of direct labor cost. During October, Kapanga completed Jobs B18 and B19 and sold Job B19.
+90. What is Kapanga's cost of goods manufactured for October?
+A) $ 50,000
+B) $ 55,000
+C) $ 78,000
+D) $ 82,000
+Answer: D Level: Medium LO: 5,6
+91. What is Kapanga's work in process inventory balance at the end of October? A) $23,000
+B) $30,500 C) $32,000 D) $43,000
+Answer: B Level: Medium LO: 5,6
+Garrison, Managerial Accounting, 12th Edition 99
+Chapter 3 Systems Design: Job-Order Costing
+Use the following to answer questions 92-95:
+Dillon Company applies manufacturing overhead to jobs using a predetermined overhead rate of 75% of direct labor cost. Any under or overapplied overhead cost is closed out to Cost of Goods Sold at the end of the month. During May, the following transactions were recorded by the company:
+100
+Garrison, Managerial Accounting, 12th Edition
+Raw materials (all direct materials):
+Purchased during the month........................................ Used in production ......................................................
+Labor:
+Direct labor hours worked during the month .............. Direct labor cost incurred............................................
+Manufacturing overhead cost incurred (total) ................ Inventories:
+Raw materials (all direct), May 31.............................. Work in process, May 1 .............................................. Work in process, May 31 ............................................
+*Contains $4,400 in direct labor cost.
+$38,000 $35,000
+3,150 $30,000 $24,500
+$8,000
+$9,000 $12,000*
+92.
+93.
+The balance on May 1 in the Raw Materials inventory account was: A) $11,000
+B) $5,000
+C) $7,000
+D) $9,000
+Answer: B Level: Medium LO: 6
+The amount of direct materials cost in the May 31 Work in Process inventory account was:
+A) $7,600
+B) $2,000
+C) $6,300 D) $4,300
+Answer: D
+Level: Hard
+LO: 6
+
+Chapter 3 Systems Design: Job-Order Costing
+94. The entry to dispose of the under or overapplied overhead cost for the month would include:
+A) adebitof$2,000totheManufacturingOverheadaccount
+B) acreditof$2,500totheManufacturingOverheadaccount
+C) a debit of $2,000 to Cost of Goods Sold
+D) acreditof$2,500toCostofGoodsSold
+Answer: C Level: Hard LO: 8
+95. The Cost of Goods Manufactured for May was: A) $84,500
+B) $95,000 C) $75,500 D) $81,500
+Answer: A Level: Medium LO: 6
+Use the following to answer questions 96-98:
+Farber Corporation uses a job-order cost system. The information below is from the financial records of the company for last year:
+Total manufacturing costs ......................... Cost of goods manufactured...................... Predetermined overhead rate.....................
+$2,500,000
+$2,425,000
+80% of direct labor cost
+Applied overhead was 30% of total manufacturing costs. The Work in Process inventory at January 1 was 75% of the Work in Process inventory at December 31.
+96. Farber Company's total direct labor cost was: A) $750,000
+B) $600,000 C) $900,000 D) $937,500
+Answer: D Level: Hard LO: 6
+Source: CMA, adapted
+Garrison, Managerial Accounting, 12th Edition
+101
+
+Chapter 3 Systems Design: Job-Order Costing
+97. Total cost of direct material used by Farber Company was: A) $750,000
+B) $812,500 C) $850,000 D) $1,150,000
+Answer: B Level: Hard LO: 6 Source: CMA, adapted
+98. The Work in Process inventory at December 31 was: A) $300,000
+B) $225,000 C) $100,000 D) $75,000
+Answer: A Level: Hard LO: 6 Source: CMA, adapted
+Use the following to answer questions 99-101:
+Killian Company began operations on January 1. The predetermined overhead rate was set at $6.00 per direct labor-hour. Debits to Work in Process for the year totaled $550,000. Credits to Work in Process totaled $480,000. Analysis of the Company's records indicates that direct labor cost totaled $250,000 for the year, which represents 20,000 direct labor-hours.
+99.
+100.
+The direct materials used in production during the year totaled: A) $180,000
+B) $240,000
+C) $130,000
+D) $120,000
+Answer: A Level: Hard LO: 7
+If the actual manufacturing overhead cost for the year totaled $145,000, then overhead was:
+A) overappliedby$25,000
+B) overappliedby$10,000
+102
+Garrison, Managerial Accounting, 12th Edition
+C) underapplied by $25,000 D) underapplied by $10,000
+Answer: C Level: Medium
+LO: 7,8
+
+Chapter 3 Systems Design: Job-Order Costing
+101. The Company's ending work in process inventory consisted of one job, Job 42. The job had been charged with $28,000 of direct labor cost, which consisted of 2,000 actual labor-hours. The direct materials cost in Job 42 totaled:
+A) $33,000
+B) $42,000 C) $17,000 D) $30,000
+Answer: D Level: Hard LO: 7
+Use the following to answer questions 102-103:
+Echo Corporation uses a job-order costing system and applies overhead to jobs using a predetermined overhead rate. During the year the company's Finished Goods inventory account was debited for $360,000 and credited for $338,800. The ending balance in the Finished Goods inventory account was $36,600. At the end of the year, manufacturing overhead was overapplied by $15,900.
+102. The balance in the Finished Goods inventory account at the beginning of the year was: A) $15,900
+B) $15,400 C) $21,200 D) $36,600
+Answer: B Level: Medium LO: 7
+103. If the applied manufacturing overhead was $169,300, the actual manufacturing overhead cost for the year was:
+A) $168,800
+B) $153,400
+C) $190,000 D) $185,200
+Answer: B Level: Medium LO: 7
+
+
+
+Use the following to answer questions 104-108:
+The following partially completed T-accounts summarize transactions for Farwest Company during the year:
+Beg Bal
+Beg Bal
+Beg Bal
+Raw Materials 4,700 10,000 6,900
+Finished Goods 1,900 22,900
+26,300
+Work in Process 4,600 26,300 7,400
+8,000
+6,800
+Manufacturing Overhead 2,600 6,800
+3,000 1,900
+Wages & Salaries Payable 12,300 1,400 Beg Bal
+11,000
+Cost of Goods Sold 22,900
+The Cost of Goods Manufactured was: A) $22,900
+B) $26,300
+C) $6,400
+      104.
+104
+Garrison, Managerial Accounting, 12th Edition
+D) $49,200
+Answer: B Level: Medium
+LO: 7
+Chapter 3 Systems Design: Job-Order Costing
+105. The direct labor cost was: A) $8,000
+B) $12,300 C) $12,600 D) $11,000
+Answer: A Level: Hard LO: 7
+106. The direct materials cost was: A) $8,000
+B) $10,000 C) $7,400 D) $4,600
+Answer: C Level: Hard LO: 7
+107. The manufacturing overhead applied was: A) $1,900
+B) $6,800 C) $12,900 D) $3,000
+Answer: B Level: Medium LO: 7
+108. The manufacturing overhead was: A) $1,900underapplied
+B) $700underapplied C) $400overapplied D) $3,200overapplied
+Answer: B Level: Medium LO: 7
+Garrison, Managerial Accounting, 12th Edition 105
+
+Chapter 3 Systems Design: Job-Order Costing Essay Questions
+109.
+Aladili Company is a manufacturing firm that uses job-order costing. At the beginning of the year, the company's inventory balances were as follows:
+106
+Garrison, Managerial Accounting, 12th Edition
+Raw materials ................................ Work in process............................. Finished goods...............................
+$36,000
+$41,000 $104,000
+The company applies overhead to jobs using a predetermined overhead rate based on machine-hours. At the beginning of the year, the company estimated that it would work 21,000 machine-hours and incur $210,000 in manufacturing overhead cost. The following transactions were recorded for the year:
+a. Raw materials were purchased, $346,000.
+b. Raw materials were requisitioned for use in production, $338,000 ($302,000 direct
+and $36,000 indirect).
+c. The following employee costs were incurred: direct labor, $360,000; indirect
+labor, $68,000; and administrative salaries, $111,000.
+d. Selling costs, $153,000.
+e. Factory utility costs, $29,000.
+f. Depreciation for the year was $102,000 of which $93,000 is related to factory
+operations and $9,000 is related to selling and administrative activities.
+g. Manufacturing overhead was applied to jobs. The actual level of activity for the
+year was 19,000 machine-hours.
+h. The cost of goods manufactured for the year was $870,000.
+i. Sales for the year totaled $1,221,000 and the costs on the job cost sheets of the
+goods that were sold totaled $855,000.
+j. The balance in the Manufacturing Overhead account was closed out to Cost of
+Goods Sold.
+Required:
+Prepare the appropriate journal entry for each of the items above (a. through j.). You can assume that all transactions with employees, customers, and suppliers were conducted in cash.
+Level: Medium LO: 3,4,5,8
+
+Chapter 3 Systems Design: Job-Order Costing
+Answer:
+a. Raw Materials Inventory .................................... Cash ...........................................................
+b. Work in Process Inventory ................................. Manufacturing Overhead .................................... Raw Materials Inventory ...........................
+c. Work in Process Inventory ................................. Manufacturing Overhead .................................... Administrative Salary Expense........................... Cash ...........................................................
+d. SellingExpenses................................................. Cash ...........................................................
+e. Manufacturing Overhead .................................... Cash ...........................................................
+f. ManufacturingOverhead.................................... Depreciation Expense ......................................... Accumulated Depreciation ........................
+g. Work in Process.................................................. Manufacturing Overhead...........................
+h. FinishedGoods................................................... Work in Process.........................................
+i. Cash.................................................................... Sales........................................................... Cost of Goods Sold............................................. Finished Goods ..........................................
+j. Cost of Goods Sold ............................................. Manufacturing Overhead...........................
+346,000
+346,000
+302,000 36,000
+338,000 360,000
+68,000 111,000
+539,000 153,000
+153,000 29,000
+29,000 93,000
+9,000
+102,000
+190,000
+190,000
+870,000
+870,000
+1,221,000
+1,221,000
+855,000
+855,000
+36,000
+36,000
+Garrison, Managerial Accounting, 12th Edition
+107
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C
+b
+B
+D
+D
+B
+D
+C
+D
+D
+D
+A
+B
+C
+A
+A
+A
+A
+A
+B
+A
+D
+C
+b
+C
+B
+D
+D
+A
+C
+C
+B
+A
+A
+D
+D
+D
+C
+B
+C
+D
+B
+B
+C
+C
+D
+A
+B
+D
+D
+C
+D
+B
+B
+B
+B
+A
+D
+D
+A
+C
+B
+B
+C
+E
+A
+D
+A
+B
+D
+C
+D
+B
+B
+D
+C
+A
+D
+B
+A
+A
+C
+D
+B
+B
+B
+A
+C
+B
+B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
