@@ -1,0 +1,89 @@
+:root {
+        --ion-toolbar-background:transparent;
+      }
+
+
+ion-header, ion-footer{
+  backdrop-filter: blur(100px);
+}
+
+ion-grid{
+  --ion-grid-columns: 20;
+}
+
+ion-card{
+  border-radius: 17px;
+  margin: 10px;
+}
+
+ion-col{
+  display: flex;
+}
+
+
+
+
+ion-grid{
+  --ion-grid-column-padding:        0px;
+  --ion-grid-column-padding-xs:     0px;
+--ion-grid-column-padding-sm:     0px;
+--ion-grid-column-padding-md:     0px;
+--ion-grid-column-padding-lg:     0px;
+--ion-grid-column-padding-xl:     0px;
+
+
+}
+
+
+
+ion-footer{
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+  margin-top: 20px; /* Status bar height on iOS 10 */
+  margin-top: constant(safe-area-inset-top); /* Status bar height on iOS 11.0 */
+  margin-top: env(safe-area-inset-top); /* Status bar height on iOS 11+ */
+}
+
+ion-footer center{
+  padding: 4px;
+  font-style: italic;
+  font-size: 13px;
+  font-weight: lighter;
+}
+
+ion-item{
+}
+
+ion-list{
+  background-color: blue;
+}
+
+
+
+.header-username{
+  display: inline-block;
+  height: 3em;
+}
+
+
+
+.header-username img{
+  display: inline-block;
+  height: 30px;
+}
+
+.header-username p{
+  display: inline-block;
+  height: 30px;
+  text-align: left;
+}
+
+.header-username b{
+  display: block;
+  font-size:15px;
+}
+
+.header-username span{
+  display: block;
+  font-size:10px;
+}

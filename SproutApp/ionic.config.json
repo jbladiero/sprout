@@ -1,0 +1,8 @@
+{
+  "name": "Sprout",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "b43acc71"
+}
